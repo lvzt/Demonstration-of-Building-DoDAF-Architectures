@@ -60,7 +60,7 @@ Computer environment: Windows 10 64-bit
 <br/>
 Software: IBM Rational Rhapsody 9.0 64-bit, Cygwin 64-bit (When installing Cygwin, remember select gcc-core 、gcc-g++ 、gdb and make under Devel package.)
 <br/>
-Note: Visual Studio 2017 Community edition is tested and it works good with Rhapsody.
+*Note: Visual Studio 2017 Community edition is tested and it works good with Rhapsody.*
 <br/>
 ## 2	Modeling demonstration<br/>
 ## 2.1	Modeling process description<br/>
