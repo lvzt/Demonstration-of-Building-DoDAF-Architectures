@@ -1,55 +1,54 @@
-# A Demonstration of Modeling DoDAF Compliant Architectures Using IBM Rational Rhapsody
-###
-##Contents
-###Acknowledge
-###1	Introduction
-###2	Modeling demonstration
-###2.1	Modeling process description
-###2.2	Modeling process details
-###2.2.1	Start a project
-###2.2.1.1	Create a new project
-###2.2.1.2	View project structure
-###2.2.2	Build Capability Viewpoint (CV)
-###2.2.2.1	Create CV-2: Capability Taxonomy
-###2.2.2.2	Create CV-4: Capability Dependencies
-###2.2.3	Build Operational Viewpoint (OV)
-###2.2.3.1	Create OV-1: High-Level Operational Concept Graphic
-###2.2.3.2	Create OV-2: Operational Resource Flow Description
-###2.2.3.3	Create OV-5a: Operational Activity Decomposition Tree
-###2.2.3.4	Create OV-5b: Operational Activity Model
-###2.2.3.5	Create OV-6c: Event-Trace Description
-###2.2.3.6	Create Interfaces
-###2.2.3.7	Create OV-2(IBD): Operational Resource Flow Description
-###2.2.3.8	Create OV-6b: State Transition Description
-###2.2.4	Configure component and execute model
-###2.2.4.1	Configure Scope
-###2.2.4.2	Configure Initialization
-###2.2.4.3	Configure Settings
-###2.2.4.4	Execute model
-###2.2.5	Build System Viewpoint (SV)
-###2.2.5.1	Create SV-1: Systems Interface Description
-###2.2.5.2	Create SV-4: Systems Functionality Description
-###2.2.5.3	Create SV-10c: Systems Event-Trace Description
-###2.2.5.4	Create Interfaces
-###2.2.5.5	Create SV-1 (IBD):  Systems Interface Description
-###2.2.5.6	Create SV-10b: Systems State Transition Description
-###2.2.6	Build interdependent viewpoint
-###2.2.6.1	Create SV-5a: Operational Activity to Systems Function Traceability Matrix
-###2.2.6.2	Create SV-5b: Operational Activity to Systems Traceability Matrix
-###3	Integrated scenario demonstration with UE4 (Additional)
-###
-###
+# A Demonstration of Modeling DoDAF Compliant Architectures Using IBM Rational Rhapsody<br/>
+## Contents<br/>
+### [Acknowledge]()<br/>
+### [1	Introduction]()<br/>
+### [2	Modeling demonstration]()<br/>
+### [2.1	Modeling process description]()<br/>
+### [2.2	Modeling process details]()<br/>
+### [2.2.1	Start a project]()<br/>
+### [2.2.1.1	Create a new project]()<br/>
+### [2.2.1.2	View project structure]()<br/>
+### [2.2.2	Build Capability Viewpoint (CV)]()<br/>
+### [2.2.2.1	Create CV-2: Capability Taxonomy]()<br/>
+### [2.2.2.2	Create CV-4: Capability Dependencies]()<br/>
+### [2.2.3	Build Operational Viewpoint (OV)]()<br/>
+### [2.2.3.1	Create OV-1: High-Level Operational Concept Graphic]()<br/>
+### [2.2.3.2	Create OV-2: Operational Resource Flow Description]()<br/>
+### [2.2.3.3	Create OV-5a: Operational Activity Decomposition Tree]()<br/>
+### [2.2.3.4	Create OV-5b: Operational Activity Model]()<br/>
+### [2.2.3.5	Create OV-6c: Event-Trace Description]()<br/>
+### [2.2.3.6	Create Interfaces]()<br/>
+### [2.2.3.7	Create OV-2(IBD): Operational Resource Flow Description]()<br/>
+### [2.2.3.8	Create OV-6b: State Transition Description]()<br/>
+### [2.2.4	Configure component and execute model]()<br/>
+### [2.2.4.1	Configure Scope]()<br/>
+### [2.2.4.2	Configure Initialization]()<br/>
+### [2.2.4.3	Configure Settings]()<br/>
+### [2.2.4.4	Execute model]()<br/>
+### [2.2.5	Build System Viewpoint (SV)]()<br/>
+### [2.2.5.1	Create SV-1: Systems Interface Description]()<br/>
+### [2.2.5.2	Create SV-4: Systems Functionality Description]()<br/>
+### [2.2.5.3	Create SV-10c: Systems Event-Trace Description]()<br/>
+### [2.2.5.4	Create Interfaces]()<br/>
+### [2.2.5.5	Create SV-1 (IBD):  Systems Interface Description]()<br/>
+### [2.2.5.6	Create SV-10b: Systems State Transition Description]()<br/>
+### [2.2.6	Build interdependent viewpoint]()<br/>
+### [2.2.6.1	Create SV-5a: Operational Activity to Systems Function Traceability Matrix]()<br/>
+### [2.2.6.2	Create SV-5b: Operational Activity to Systems Traceability Matrix]()<br/>
+### [3	Integrated scenario demonstration with UE4 (Additional)]()<br/>
+<br/><br/>
+<br/><br/>
 
-
- 
-Acknowledge
-
+## Acknowledge<br/>
+###
 This demonstration article by Mr. Zhentao Lu is licensed under Creative Commons Attribution 4.0 International License.
- 
- 
-1	Introduction
+<br/>
+
+## 1	Introduction<br/>
+###
 This demonstration is going to show how to use IBM Rational Rhapsody software to build a DoDAF model.
 Note: This demonstration is NOT a mandatary or standard modeling method. Instead, it could be reference way. Because of the feature of DoDAF, any viewpoint or even diagram could be the starting point of modeling.
+<br/>
  
 (Reference: https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-dodaf-framework/)
 
