@@ -53,29 +53,39 @@ Note: This demonstration is NOT a mandatary or standard modeling method. Instead
 (Reference: https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-dodaf-framework/)
 
 For detailed information of DoDAF, go to the websit of Department of Defense.
-In this demonstration, only Capability Viewpoint (CV), Operational Viewpoint (OV) and Systems Viewpoint (SV).
+<br/><br/>
+In this demonstration, only Capability Viewpoint (CV), Operational Viewpoint (OV) and Systems Viewpoint (SV) are covered.
+<br/><br/>
 Computer environment: Windows 10 64-bit
+<br/>
 Software: IBM Rational Rhapsody 9.0 64-bit, Cygwin 64-bit (When installing Cygwin, remember select gcc-core 、gcc-g++ 、gdb and make under Devel package.)
+<br/>
 Note: Visual Studio 2017 Community edition is tested and it works good with Rhapsody.
-
-2	Modeling demonstration
-2.1	Modeling process description
- 
+<br/>
+## 2	Modeling demonstration<br/>
+## 2.1	Modeling process description<br/>
+###
 Repeat again: This process is NOT a mandatary or standard modeling method.
+<br/>
 This demonstration begins with Capability Viewpoint (CV). Then Operational Viewpoint and System Viewpoint are completed.
-SysML is used for modeling. Activity Diagram (AD) can be introduced for OV-5b and SV-4, Sequence Diagram (ScSD) for OV-6c and SV-10c, and State Diagram for OV-6b and SV-10b, as they are defined in SysML specification to build model from behavior aspect. Both Internal Block Diagram (IBD) and Block Definition Diagram (BDD) can be introduced for OV-2 and SV-1, as they are defined in SysML specification to build model from structure aspect.
-2.2	Modeling process details
-2.2.1	Start a project
-2.2.1.1	Create a new project
-1.	Start Rational Rhapsody 9.0
-2.	Click the File on the menu and select New
-3.	Fill a project name in Project name
-4.	Click Browse and browse to the folder E:\IBMworkspace
-5.	In Project Type select UPDM2_DoDAF
-6.	In Project Settings select SysMLPerspectives
-7.	Click OK
-8.	Click OK when a note saying Directory does not exist is displayed
- 
+<br/>
+SysML is used for modeling.
+<br/>
+Activity Diagram (AD) can be introduced for OV-5b and SV-4, Sequence Diagram (ScSD) for OV-6c and SV-10c, and State Diagram for OV-6b and SV-10b, as they are defined in SysML specification to build model from behavior aspect. Both Internal Block Diagram (IBD) and Block Definition Diagram (BDD) can be introduced for OV-2 and SV-1, as they are defined in SysML specification to build model from structure aspect.
+<br/>
+## 2.2	Modeling process details<br/>
+## 2.2.1	Start a project<br/>
+## 2.2.1.1	Create a new project<br/>
+###
+1.	Start Rational Rhapsody 9.0<br/>
+2.	Click the **File** on the menu and select **New**<br/>
+3.	Fill a project name in Project name<br/>
+4.	Click Browse and browse to the folder E:\IBMworkspace<br/>
+5.	In Project Type select UPDM2_DoDAF<br/>
+6.	In Project Settings select SysMLPerspectives<br/>
+7.	Click OK<br/>
+8.	Click OK when a note saying Directory does not exist is displayed<br/>
+<br/><br/>
 2.2.1.2	View project structure
 1.	Packages for 8 viewpoints are created. All is empty but All Viewpoint.
  
