@@ -41,7 +41,7 @@
 
 ## Acknowledge<br/>
 ###
-This demonstration article by Mr. Zhentao Lu is licensed under Creative Commons Attribution 4.0 International License.
+This demonstration article by Mr. Zhentao Lu is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 <br/>
 
 ## 1	Introduction<br/>
@@ -65,7 +65,7 @@ Note: Visual Studio 2017 Community edition is tested and it works good with Rhap
 ## 2	Modeling demonstration<br/>
 ## 2.1	Modeling process description<br/>
 ###
-Repeat again: This process is NOT a mandatary or standard modeling method.
+Repeat again: This process is **NOT** a mandatary or standard modeling method.
 <br/>
 This demonstration begins with Capability Viewpoint (CV). Then Operational Viewpoint and System Viewpoint are completed.
 <br/>
@@ -79,12 +79,12 @@ Activity Diagram (AD) can be introduced for OV-5b and SV-4, Sequence Diagram (Sc
 ###
 1.	Start Rational Rhapsody 9.0<br/>
 2.	Click the **File** on the menu and select **New**<br/>
-3.	Fill a project name in Project name<br/>
-4.	Click Browse and browse to the folder E:\IBMworkspace<br/>
-5.	In Project Type select UPDM2_DoDAF<br/>
-6.	In Project Settings select SysMLPerspectives<br/>
-7.	Click OK<br/>
-8.	Click OK when a note saying Directory does not exist is displayed<br/>
+3.	Fill a project name in **Project name**<br/>
+4.	Click **Browse** and browse to the folder E:\IBMworkspace<br/>
+5.	In **Project Type** select **UPDM2_DoDAF**<br/>
+6.	In **Project Settings** select **SysMLPerspectives**<br/>
+7.	Click **OK**<br/>
+8.	Click **OK** when a note saying **Directory does not exist** is displayed<br/>
 <br/><br/>
 2.2.1.2	View project structure
 1.	Packages for 8 viewpoints are created. All is empty but All Viewpoint.
