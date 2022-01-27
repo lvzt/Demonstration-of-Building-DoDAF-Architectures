@@ -97,9 +97,9 @@ Activity Diagram (AD) can be introduced for OV-5b and SV-4, Sequence Diagram (Sc
 3.	View and change the content.
  
 By default, packages for all viewpoints are created and brief descriptions are added. For more detailed information about All Viewpoint, go to the website of Department of Defense.
-2.2.2	Build Capability Viewpoint (CV)
+## 2.2.2	Build Capability Viewpoint (CV)<br/>
 For more detailed information about Capability Viewpoint, go to the website of Department of Defense.
-2.2.2.1	Create CV-2: Capability Taxonomy
+## 2.2.2.1	Create CV-2: Capability Taxonomy<br/>
 For more detailed information about CV-2: Capability Taxonomy, go to the website of Department of Defense.
 1.	Right click on CapabilityViewPkg, select Add New -> Capability View Products -> CV-2 Capability Taxonomy
  
@@ -139,7 +139,7 @@ For more detailed information about CV-4: Capability Dependencies, go to the web
 Note: the perspective panel is on the upper left.
 6.	Click  on the Diagram Tools then connect Punctuality with Rapidness
  
-2.2.3	Build Operational Viewpoint (OV)
+## 2.2.3	Build Operational Viewpoint (OV)<br/>
 For more detailed information about Operational Viewpoint, go to the website of Department of Defense.
 2.2.3.1	Create OV-1: High-Level Operational Concept Graphic
 For more detailed information about OV-1: High-Level Operational Concept Graphic, go to the website of Department of Defense.
