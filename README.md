@@ -1,6 +1,6 @@
 # A Demonstration of Modeling DoDAF Compliant Architectures Using IBM Rational Rhapsody<br/>
 ## Contents<br/>
-### [Acknowledge]()<br/>
+### [Acknowledge](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures/blob/main/README.md#acknowledge-1)<br/>
 ### [1	Introduction]()<br/>
 ### [2	Modeling demonstration]()<br/>
 ### [2.1	Modeling process description]()<br/>
