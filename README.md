@@ -48,10 +48,9 @@ This demonstration article by Mr. Zhentao Lu is licensed under [Creative Commons
 ###
 This demonstration is going to show how to use IBM Rational Rhapsody software to build a DoDAF model.
 Note: This demonstration is NOT a mandatary or standard modeling method. Instead, it could be reference way. Because of the feature of DoDAF, any viewpoint or even diagram could be the starting point of modeling.<br/>
-<br/><br/>
-[](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures/blob/main/image/1000%20dodaf.png)
+![](/image/1000%20dodaf.png)<br/>
 (Reference: https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-dodaf-framework/)
-
+<br/>
 For detailed information of DoDAF, go to the websit of Department of Defense.
 <br/><br/>
 In this demonstration, only Capability Viewpoint (CV), Operational Viewpoint (OV) and Systems Viewpoint (SV) are covered.
