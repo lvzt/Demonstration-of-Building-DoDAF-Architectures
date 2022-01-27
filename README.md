@@ -3,7 +3,7 @@
 ### [Acknowledge](/README.md#acknowledge-1)<br/>
 ### [1	Introduction](/README.md#1introduction-1)<br/>
 ### [2	Modeling demonstration](/README.md#2modeling-demonstration-1)<br/>
-### [2.1	Modeling process description]()<br/>
+### [2.1	Modeling process description](/README.md#21modeling-process-description-1)<br/>
 ### [2.2	Modeling process details]()<br/>
 ### [2.2.1	Start a project]()<br/>
 ### [2.2.1.1	Create a new project]()<br/>
@@ -47,7 +47,8 @@ This demonstration article by Mr. Zhentao Lu is licensed under [Creative Commons
 ## 1	Introduction<br/>
 ###
 This demonstration is going to show how to use IBM Rational Rhapsody software to build a DoDAF model.
-Note: This demonstration is NOT a mandatary or standard modeling method. Instead, it could be reference way. Because of the feature of DoDAF, any viewpoint or even diagram could be the starting point of modeling.<br/>
+Note: This demonstration is NOT a mandatary or standard modeling method. Instead, it could be reference way. Because of the feature of DoDAF, any viewpoint or even diagram could be the starting point of modeling.
+<br/><br/>
 ![](/image/1000%20dodaf.png)<br/>
 (Reference: https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-dodaf-framework/)
 <br/>
