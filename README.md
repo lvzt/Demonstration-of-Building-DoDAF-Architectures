@@ -65,8 +65,11 @@ Software: IBM Rational Rhapsody 9.0 64-bit, Cygwin 64-bit (When installing Cygwi
 ## 2	Modeling demonstration<br/>
 ## 2.1	Modeling process description<br/>
 ###
-Repeat again: This process is **NOT** a mandatary or standard modeling method.
-<br/>
+Because of the feature of DoDAF, any viewpoint may be the start point. The following figure describes a practical way to produce corresponding artifacts in different viewpoints. Some relationship views, such as: CV-6, SV-5a and SV-5b, rely on the completeness of other views.<br/>
+It is necessary and important to mention that this process is NOT a mandatary or standard modeling method.<br/>
+<br/><br/>
+[]()
+<br/><br/>
 This demonstration begins with Capability Viewpoint (CV). Then Operational Viewpoint and System Viewpoint are completed.
 <br/>
 SysML is used for modeling.
