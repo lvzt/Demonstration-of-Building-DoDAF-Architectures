@@ -66,8 +66,7 @@ Software: IBM Rational Rhapsody 9.0 64-bit, Cygwin 64-bit (When installing Cygwi
 ###
 Because of the feature of DoDAF, any viewpoint may be the start point. The following figure describes a practical way to produce corresponding artifacts in different viewpoints. Some relationship views, such as: CV-6, SV-5a and SV-5b, rely on the completeness of other views.<br/>
 It is necessary and important to mention that this process is NOT a mandatary or standard modeling method.<br/>
-<br/><br/>
-[]()
+![](/image/2101%20DoDAF%20modeling%20process.jpg)
 <br/><br/>
 This demonstration begins with Capability Viewpoint (CV). Then Operational Viewpoint and System Viewpoint are completed.
 <br/>
