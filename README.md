@@ -1,43 +1,44 @@
 # A Demonstration of Modeling DoDAF Compliant Architectures Using IBM Rational Rhapsody
-
-Contents
-Acknowledge	3
-1	Introduction	4
-2	Modeling demonstration	6
-2.1	Modeling process description	6
-2.2	Modeling process details	7
-2.2.1	Start a project	7
-2.2.1.1	Create a new project	7
-2.2.1.2	View project structure	8
-2.2.2	Build Capability Viewpoint (CV)	10
-2.2.2.1	Create CV-2: Capability Taxonomy	10
-2.2.2.2	Create CV-4: Capability Dependencies	19
-2.2.3	Build Operational Viewpoint (OV)	23
-2.2.3.1	Create OV-1: High-Level Operational Concept Graphic	23
-2.2.3.2	Create OV-2: Operational Resource Flow Description	28
-2.2.3.3	Create OV-5a: Operational Activity Decomposition Tree	34
-2.2.3.4	Create OV-5b: Operational Activity Model	41
-2.2.3.5	Create OV-6c: Event-Trace Description	53
-2.2.3.6	Create Interfaces	62
-2.2.3.7	Create OV-2(IBD): Operational Resource Flow Description	67
-2.2.3.8	Create OV-6b: State Transition Description	79
-2.2.4	Configure component and execute model	99
-2.2.4.1	Configure Scope	99
-2.2.4.2	Configure Initialization	101
-2.2.4.3	Configure Settings	102
-2.2.4.4	Execute model	104
-2.2.5	Build System Viewpoint (SV)	105
-2.2.5.1	Create SV-1: Systems Interface Description	105
-2.2.5.2	Create SV-4: Systems Functionality Description	106
-2.2.5.3	Create SV-10c: Systems Event-Trace Description	108
-2.2.5.4	Create Interfaces	108
-2.2.5.5	Create SV-1 (IBD):  Systems Interface Description	108
-2.2.5.6	Create SV-10b: Systems State Transition Description	108
-2.2.6	Build interdependent viewpoint	108
-2.2.6.1	Create SV-5a: Operational Activity to Systems Function Traceability Matrix	108
-2.2.6.2	Create SV-5b: Operational Activity to Systems Traceability Matrix	112
-3	Integrated scenario demonstration with UE4 (Additional)	115
-
+###
+##Contents
+###Acknowledge
+###1	Introduction
+###2	Modeling demonstration
+###2.1	Modeling process description
+###2.2	Modeling process details
+###2.2.1	Start a project
+###2.2.1.1	Create a new project
+###2.2.1.2	View project structure
+###2.2.2	Build Capability Viewpoint (CV)
+###2.2.2.1	Create CV-2: Capability Taxonomy
+###2.2.2.2	Create CV-4: Capability Dependencies
+###2.2.3	Build Operational Viewpoint (OV)
+###2.2.3.1	Create OV-1: High-Level Operational Concept Graphic
+###2.2.3.2	Create OV-2: Operational Resource Flow Description
+###2.2.3.3	Create OV-5a: Operational Activity Decomposition Tree
+###2.2.3.4	Create OV-5b: Operational Activity Model
+###2.2.3.5	Create OV-6c: Event-Trace Description
+###2.2.3.6	Create Interfaces
+###2.2.3.7	Create OV-2(IBD): Operational Resource Flow Description
+###2.2.3.8	Create OV-6b: State Transition Description
+###2.2.4	Configure component and execute model
+###2.2.4.1	Configure Scope
+###2.2.4.2	Configure Initialization
+###2.2.4.3	Configure Settings
+###2.2.4.4	Execute model
+###2.2.5	Build System Viewpoint (SV)
+###2.2.5.1	Create SV-1: Systems Interface Description
+###2.2.5.2	Create SV-4: Systems Functionality Description
+###2.2.5.3	Create SV-10c: Systems Event-Trace Description
+###2.2.5.4	Create Interfaces
+###2.2.5.5	Create SV-1 (IBD):  Systems Interface Description
+###2.2.5.6	Create SV-10b: Systems State Transition Description
+###2.2.6	Build interdependent viewpoint
+###2.2.6.1	Create SV-5a: Operational Activity to Systems Function Traceability Matrix
+###2.2.6.2	Create SV-5b: Operational Activity to Systems Traceability Matrix
+###3	Integrated scenario demonstration with UE4 (Additional)
+###
+###
 
 
  
