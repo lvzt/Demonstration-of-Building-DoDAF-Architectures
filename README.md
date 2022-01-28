@@ -372,7 +372,7 @@ Note: tm is internal function which means time delay, and the unit is millisecon
  
 19.	Add transition from sendreq_Ground_transportation to Waiting then add setSendReq_Ground_stop(true); in Action<br/>
  
-Note: Set a value to indicate whether the event is sent to other performer, and the event is only sent once.<br/>
+Note: Set a value to indicate whether the event is sent to the other performer, and the event is only sent once.<br/>
 20.	According to OV-5b and OV-6c then complete the OV-6b for People performer<br/>
  
 21.	According to OV-5b and OV-6c complete OV-6b for Aerial_transportation performer<br/>
