@@ -274,7 +274,7 @@ Note: the perspective panel is on the upper left.<br/>
  
 5.	The event reqGround_stop() can be found in left tree. Drag this event to People_ Ground_transportation interface<br/>
 
-6.	When drop the event to the interface, a notice is shown and click OK then a new reception is create under the interface<br/>
+6.	When drop the event to the interface, a notice is shown and click OK then a new reception is created under the interface<br/>
  
 7.	According to ov-6c event trace description_transportation then create all other interfaces and corresponding receptions<br/>
  
