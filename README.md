@@ -87,29 +87,28 @@ Activity Diagram (AD) can be introduced for OV-5b and SV-4, Sequence Diagram (Sc
 6.	In **Project Settings** select **SysMLPerspectives**<br/>
 7.	Click **OK**<br/>
 8.	Click **OK** when a note saying **Directory does not exist** is displayed<br/>
-![](/image/2211%20Start%20project)
+![](/image/2211%20Start%20project.jpg)
 <br/><br/>
 ## 2.2.1.2	View project structure<br/>
 ###
 1.	Packages for 8 viewpoints are created. All is empty but All Viewpoint.<br/>
-![](/image/2212%20Project%20Structure)
-2.	Double click the **Overview of the default architecture structure.**<br/>
+![](/image/2212%20Project%20Structure.jpg)
+2.	Double click the **Overview of the default architecture structure**.<br/>
 ![](/image/2213%20AV-1%20Title.jpg)
 3.	View and change the content.<br/>
 ![](/image/2214%20AV-1.jpg)
-<br/>
-By default, packages for all viewpoints are created and brief descriptions are added. For more detailed information about All Viewpoint, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_all_view/) of Department of Defense.<br/>
+By default, packages for all viewpoints are created and brief descriptions are added. For more detailed information about All Viewpoint, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_all_view/) of Department of Defense.
 <br/><br/>
 ## 2.2.2	Build Capability Viewpoint (CV)<br/>
 ###
-For more detailed information about Capability Viewpoint, go to the website of Department of Defense.<br/>
+For more detailed information about Capability Viewpoint, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_capability/) of Department of Defense.<br/>
 ## 2.2.2.1	Create CV-2: Capability Taxonomy<br/>
 ###
-For more detailed information about CV-2: Capability Taxonomy, go to the website of Department of Defense.<br/>
-1.	Right click on CapabilityViewPkg, select Add New -> Capability View Products -> CV-2 Capability Taxonomy<br/>
- 
+For more detailed information about CV-2: Capability Taxonomy, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_cv2/) of Department of Defense.<br/>
+1.	Right click on **CapabilityViewPkg**, select **Add New -> Capability View Products -> CV-2 Capability Taxonomy**<br/>
+![](/image/22201%20CV-2%20Create.jpg)
 2.	Fill in a name for the diagram and click OK<br/>
- 
+
 3.	Select Capability tool<br/>
 4.	Draw a Capability on the diagram<br/>
  
@@ -139,7 +138,7 @@ For more detailed information about CV-4: Capability Dependencies, go to the web
  
 4.	Drag Punctuality and Rapidness on the diagram<br/>
  
-5.	By default the perspective is in Getting Started, so some items on drawing panel are not displayed, to show more drawing items click the perspective list and select Basic<br/>
+5.	By default, the perspective is in Getting Started, so some items on drawing panel are not displayed, to show more drawing items click the perspective list and select Basic<br/>
  
 Note: the perspective panel is on the upper left.<br/>
 6.	Click  on the Diagram Tools then connect Punctuality with Rapidness<br/>
