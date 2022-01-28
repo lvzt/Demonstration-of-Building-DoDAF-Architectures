@@ -52,7 +52,7 @@ Note: This demonstration is NOT a mandatary or standard modeling method. Instead
 ![](/image/1000%20dodaf.png)<br/>
 (Reference: https://www.visual-paradigm.com/guide/enterprise-architecture/what-is-dodaf-framework/)
 <br/>
-For detailed information of DoDAF, go to the websit of Department of Defense.
+For detailed information of DoDAF, go to the [websit](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/) of Department of Defense.
 <br/><br/>
 In this demonstration, only Capability Viewpoint (CV), Operational Viewpoint (OV) and Systems Viewpoint (SV) are covered.
 <br/><br/>
@@ -87,18 +87,22 @@ Activity Diagram (AD) can be introduced for OV-5b and SV-4, Sequence Diagram (Sc
 6.	In **Project Settings** select **SysMLPerspectives**<br/>
 7.	Click **OK**<br/>
 8.	Click **OK** when a note saying **Directory does not exist** is displayed<br/>
+![](/image/2211%20Start%20project)
 <br/><br/>
 ## 2.2.1.2	View project structure<br/>
 ###
 1.	Packages for 8 viewpoints are created. All is empty but All Viewpoint.<br/>
-
-2.	Double click the Overview of the default architecture structure.<br/>
- 
+![](/image/2212%20Project%20Structure)
+2.	Double click the **Overview of the default architecture structure.**<br/>
+![](/image/2213%20AV-1%20Title.jpg)
 3.	View and change the content.<br/>
- 
-By default, packages for all viewpoints are created and brief descriptions are added. For more detailed information about All Viewpoint, go to the website of Department of Defense.<br/>
+![](/image/2214%20AV-1.jpg)
+<br/>
+By default, packages for all viewpoints are created and brief descriptions are added. For more detailed information about All Viewpoint, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_all_view/) of Department of Defense.<br/>
+<br/><br/>
 ## 2.2.2	Build Capability Viewpoint (CV)<br/>
-For more detailed information about Capability Viewpoint, go to the website of Department of Defense.
+###
+For more detailed information about Capability Viewpoint, go to the website of Department of Defense.<br/>
 ## 2.2.2.1	Create CV-2: Capability Taxonomy<br/>
 ###
 For more detailed information about CV-2: Capability Taxonomy, go to the website of Department of Defense.<br/>
