@@ -120,20 +120,22 @@ DoDAF Demonstration github 20220129
 4.	Draw a Capability on the diagram<br/>
 ![](/image/22204%20CV-2%20Capability%20Diagram.jpg)
 5.	Right click the **Capability** and select **Features…**<br/>
-6.	Fill in a name for this Capability<br/>
-
-Note: Space and “-“ are highly NOT recommended to be included in any names of elements on the diagram.<br/>
+![](/image/22221%20CV-2%20Capability%20Features.jpg)
+7.	Fill in a name for this **Capability**<br/>
+![](/image/22205%20CV-2%20Capability%20name.jpg)<br/>
+*Note: Space and “-“ are highly NOT recommended to be included in any names of elements on the diagram.*<br/>
 7.	Add three more Capability elements<br/>
- 
-Tip: When drawing diagrams, Stamp Mode  tool can be pushed down then the item will not be released after clicking it from the panel so the selected item can be added more than once.<br/>
+![](/image/22206%20CV-2%20Diagram%20more%20capabilities.jpg)<br/>
+*Tip: When drawing diagrams, **Stamp Mode** ![](/image/22207%20CV-2%20Stamp%20Mode.jpg) tool can be pushed down then the item will not be released after clicking it from the panel so the selected item can be added more than once.*<br/>
 8.	Change the name of all those three Capability elements<br/>
- 
-9.	Click   tool then add the relation between the main element and sub-elements<br/>
- 
-10.	 (optional) If names of both ends need to be hided, select the line then right click on the line and choose Display Options…<br/>
- 
-11.	 (optional) De-select all items in the list of End1: Transportation_capability and all items in the list of end2<br/>
-
+![](/image/22208%20CV-2%20Diagram%20more%20capabilities%20with%20name.jpg)
+9.	Click **Composition** ![](/image/22209%20CV-2%20Composition%20tool.jpg) tool then add the relation between the main element and sub-elements<br/>
+![](/image/22210%20Capability%20Diagram%20capability%20with%20association.jpg)
+10.	 (optional) If names of both ends need to be hided, select the line then right click on the line and choose **Display Options…**<br/>
+![](/image/22211%20CV-2%20Display%20Options.jpg)
+11.	 (optional) De-select all items in the list of **End1: Transportation_capability** and all items in the list of end2<br/>
+![](/image/22212%20CV-2%20Deselect%20items.jpg)
+![](/image/22213%20CV-4%20Change%20Perspective%20complete.jpg)<br/>
 ## 2.2.2.2	Create CV-4: Capability Dependencies<br/>
 ###
 For more detailed information about CV-4: Capability Dependencies, go to the website of Department of Defense.<br/>
