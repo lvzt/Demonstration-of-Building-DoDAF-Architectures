@@ -108,13 +108,13 @@ For more detailed information about CV-2: Capability Taxonomy, go to the [websit
 1.	Right click on **CapabilityViewPkg**, select **Add New -> Capability View Products -> CV-2 Capability Taxonomy**<br/>
 ![](/image/22201%20CV-2%20Create.jpg)
 2.	Fill in a name for the diagram and click OK<br/>
-
-3.	Select Capability tool<br/>
+DoDAF Demonstration github 20220129
+3.	Select **Capability** tool ![](/image/22203%20CV-2%20Capability%20tool.jpg)<br/>
 4.	Draw a Capability on the diagram<br/>
- 
-5.	Right click the Capability and select Features…<br/>
+![](/image/22204%20CV-2%20Capability%20Diagram.jpg)
+5.	Right click the **Capability** and select **Features…**<br/>
 6.	Fill in a name for this Capability<br/>
- 
+
 Note: Space and “-“ are highly NOT recommended to be included in any names of elements on the diagram.<br/>
 7.	Add three more Capability elements<br/>
  
