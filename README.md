@@ -80,23 +80,30 @@ Activity Diagram (AD) can be introduced for OV-5b and SV-4, Sequence Diagram (Sc
 ## 2.2.1.1	Create a new project<br/>
 ###
 1.	Start Rational Rhapsody 9.0<br/>
-2.	Click the **File** on the menu and select **New**<br/>
-3.	Fill a project name in **Project name**<br/>
-4.	Click **Browse** and browse to the folder E:\IBMworkspace<br/>
-5.	In **Project Type** select **UPDM2_DoDAF**<br/>
-6.	In **Project Settings** select **SysMLPerspectives**<br/>
-7.	Click **OK**<br/>
-8.	Click **OK** when a note saying **Directory does not exist** is displayed<br/>
-![](/image/2211%20Start%20project.jpg)
+![](/image/22111%20Start%20Software.jpg)
+3.	Click the **File** on the menu and select **New**<br/>
+![](/image/22112%20New.jpg)
+4.	Fill a project name in **Project name**<br/>
+![](/image/22113%20Project%20name.jpg)
+6.	Click **Browse** and browse to the folder E:\IBMworkspace<br/>
+![](/image/22114%20Project%20folder.jpg)
+8.	In **Project Type** select **UPDM2_DoDAF**<br/>
+![](/image/22115%20Project%20type.jpg)
+10.	(optional) In **Project Settings** select **SysMLPerspectives**<br/>
+![](/image/22116%20Project%20settings.jpg)
+12.	Click **OK**<br/>
+![](/image/22117%20Create%20Project%20complete.jpg)
+14.	Click **Yes** when a note saying **Directory does not exist** is displayed<br/>
+![](/image/22118%20Create%20Directory.jpg)
 <br/><br/>
 ## 2.2.1.2	View project structure<br/>
 ###
 1.	Packages for 8 viewpoints are created. All is empty but All Viewpoint.<br/>
-![](/image/2212%20Project%20Structure.jpg)
+![](/image/22121%20Project%20Structure.jpg)
 2.	Double click the **Overview of the default architecture structure**.<br/>
-![](/image/2213%20AV-1%20Title.jpg)
+![](/image/22122%20AV-1%20Title.jpg)
 3.	View and change the content.<br/>
-![](/image/2214%20AV-1.jpg)
+![](/image/22123%20AV-1.jpg)
 By default, packages for all viewpoints are created and brief descriptions are added. For more detailed information about All Viewpoint, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_all_view/) of Department of Defense.
 <br/><br/>
 ## 2.2.2	Build Capability Viewpoint (CV)<br/>
