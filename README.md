@@ -216,37 +216,39 @@ For more detailed information about OV-5a: Operational Activity Decomposition Tr
 *Note: The process to hide the information shown on both ends of **Composition** line is described in CV-2 (2.2.2.1) step 10 and 11.*<br/>
 ## 2.2.3.4	Create OV-5b: Operational Activity Model<br/>
 ###
-For more detailed information about OV-5b: Operational Activity Model, go to the website of Department of Defense.<br/>
-1.	Right click on OperationalViewPkg, select Add New -> Operational View Products -> OV-5b Operational Activity Model<br/>
- 
-2.	Expand ov-5b operational activity model package then double-click OV-5bOperationalActivityModelDiagram<br/>
- 
-3.	Click   on Diagram Tools then add Swimlane Frame on panel<br/>
- 
-4.	Click   on Diagram Tools then add swimlane on panel<br/>
- 
-5.	Drag People from Performers and drop on the title of the swinlane<br/>
- 
-Note: If the performer is dropped on the diagram, it can be deleted (from view).<br/>
-6.	Add two more swimlanes and drag all other three performers(Ground_transportation, Aerial_transportation and Railway_transportation) on the title of swimlanes<br/>
- 
-7.	Click   on Diagram Tools then add operational activity actions on panel<br/>
- 
-8.	Right-click operational activity action and select Features…<br/>
- 
-9.	Fill in a name for operational activity action and click OK<br/>
- 
-10.	Click   on Diagram Tools then add initial flow on panel and connect with Set_out action<br/>
- 
-11.	Add more operational activity action and other needed items to complete the diagram. OperationalActivityEdge    is used to connect operational activity actions.<br/>
- 
-Note: If the swinlane frame is too small, press Alt and right-click mouse to expand it.
-12.	 Right-click on empty place of diagram (please note do not select any items on diagram) and select UPDM Toolkit -> Create Activities For ActionsCommand<br/>
- 
-13.	Wait for few seconds then result is displayed in Log window<br/>
- 
-14.	Expand OperationalActivities to check all activities created from the diagram<br/>
- 
+For more detailed information about OV-5b: Operational Activity Model, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_ov5ab/) of Department of Defense.<br/>
+1.	Right click on **OperationalViewPkg**, select **Add New -> Operational View Products -> OV-5b Operational Activity Model**<br/>
+![](/image/223401%20OV-5b%20Create%20Operational%20Activity%20Model.jpg)
+2.	Expand **ov-5b operational activity model** package then double-click **OV-5bOperationalActivityModelDiagram**<br/>
+![](/image/223402%20OV-5b%20Operational%20Activity%20Model%20name.jpg)
+3.	Click **Swimlane Frame** ![](/image/223403%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Frame.jpg) tool on **Diagram Tools** then add **Swimlane Frame** on panel<br/>
+![](/image/223404%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Frame%20Diagram.jpg)
+4.	Click **Swimlane Divider** ![](/image/223405%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Divider.jpg) tool on **Diagram Tools** then add swimlane divider on the swimlane frame<br/>
+![](/image/223406%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Divider%20Diagram.jpg)
+5.	Drag **People** from **Performers** and drop on the title of the swinlane<br/>
+![](/image/223420%20OV-5b%20Drag%20Performer.jpg)
+![](/image/223421%20OV-5b%20Release%20Performer%20on%20Swimlane%20Title.jpg)
+![](/image/223407%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Performer.jpg)
+*Note: If the performer is dropped on the diagram, it can be deleted (from view)*.<br/>
+6.	Add two more swimlanes and drag all other three performers(**Ground_transportation**, **Aerial_transportation** and **Railway_transportation**) on the title of swimlanes<br/>
+![](/image/223408%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Performers.jpg)
+7.	Click **OperationalActivityAction** ![](/image/223409%20OV-5b%20Operational%20Activity%20Action.jpg) tool on **Diagram Tools** then add operational activity actions on panel<br/>
+![](/image/223410%20OV-5b%20Operational%20Activity%20Action%20Diagram.jpg)
+8.	Right-click operational activity action and select **Features…**<br/>
+![](/image/223411%20OV-5b%20Operational%20Activity%20Action%20Feature.jpg)
+9.	Fill in a name for operational activity action and click **OK**<br/>
+![](/image/223412%20OV-5b%20Operational%20Activity%20Action%20Feature%20name.jpg)
+10.	Click **Initial Flow** ![](/image/223413%20OV-5b%20Initial%20Flow.jpg) tool on **Diagram Tools** then add initial flow on panel and connect with **Set_out** action<br/>
+![](/image/223414%20OV-5b%20Operational%20Activity%20with%20Initial%20Flow.jpg)
+11.	Add more operational activity action and other needed items to complete the diagram. **OperationalActivityEdge** ![](/image/223415%20OV-5b%20OperationalActivityEdge.jpg) tool is used to connect operational activity actions.<br/>
+![](/image/223416%20OV-5b%20Operational%20Activity%20complete.jpg)
+*Note: If the swinlane frame is too small, click the frame and press and hold Alt then use left-button of mouse to expand it.*<br/>
+12.	 Right-click on empty place of diagram (please note do not select any items on diagram) and select **UPDM Toolkit -> Create Activities For ActionsCommand**<br/>
+![](/image/223417%20OV-5b%20Create%20Activities%20For%20ActionCommand.jpg)
+13.	Wait for few seconds then result is displayed in **Log** window<br/>
+![](/image/223418%20OV-5b%20Create%20Activities%20For%20ActionCommand%20result.jpg)
+14.	Expand **OperationalActivities** to check all activities created from the diagram<br/>
+![](/image/223419%20OV-5b%20Created%20Activities.jpg)
 ## 2.2.3.5	Create OV-6c: Event-Trace Description<br/>
 ###
 For more detailed information about OV-6c: Event-Trace Description, go to the website of Department of Defense.<br/>
