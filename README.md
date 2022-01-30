@@ -195,24 +195,25 @@ For more detailed information about OV-2: Operational Resource Flow Description,
 *Note: The process to hide the information shown on both ends of **Composition** line is described in CV-2 (2.2.2.1) step 10 and 11.*<br/>
 ## 2.2.3.3	Create OV-5a: Operational Activity Decomposition Tree<br/>
 ###
-For more detailed information about OV-5a: Operational Activity Decomposition Tree, go to the website of Department of Defense.<br/>
-1.	Right click on OperationalViewPkg, select Add New -> Operational View Products -> OV-5a Operational Activity Hierarchy<br/>
- 
-2.	Fill in a name for the diagram and click OK<br/>
- 
-3.	Click   on Diagram Tools then add an operational activity on panel<br/>
- 
-4.	Right-click logical architecture and select Features…<br/>
- 
-5.	Fill in a name for operational activity and click OK<br/>
- 
-6.	Expand Performer package then drag Ground_transportation on the panel<br/>
- 
-7.	Click   on Diagram Tools then add relationship between performer and operational activity<br/>
- 
+For more detailed information about OV-5a: Operational Activity Decomposition Tree, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_ov5ab/) of Department of Defense.<br/>
+1.	Right click on **OperationalViewPkg**, select **Add New -> Operational View Products -> OV-5a Operational Activity Hierarchy**<br/>
+![](/image/223301%20OV-5a%20Create.jpg)
+2.	Fill in a name for the diagram and click **OK**<br/>
+![](/image/223302%20OV-5a%20Diagram%20name.jpg)
+3.	Click **OperationalActivity** ![](/image/223303%20OV-5a%20Operational%20Activity.jpg) tool on **Diagram Tools** then add an operational activity on panel<br/>
+![](/image/223304%20OV-5a%20Diagram%20Operational%20Activity.jpg)
+4.	Right-click logical architecture and select **Features…**<br/>
+![](/image/223305%20OV-5a%20Features.jpg)
+5.	Fill in a name for operational activity and click **OK**<br/>
+![](/image/223306%20OV-5a%20Operational%20Activity%20name.jpg)
+![](/image/223307%20OV-5a%20Operational%20Activity%20complete.jpg)
+6.	Expand **Performer** package then drag **Ground_transportation** on the panel<br/>
+![](/image/223308%20OV-5a%20Add%20performer.jpg)
+7.	Click **ActivityPerformedByPerformer** ![](/image/223309%20OV-5a%20ActivityPerformedByPerformer.jpg) tool on **Diagram Tools** then add relationship between performer and operational activity<br/>
+![](/image/223310%20OV-5a%20Diagram%20Activity%20with%20performer.jpg)
 8.	Add two more operational activities then connect them with performer<br/>
- 
-Note: The process to hide the information shown on both ends of Composition line is described in CV-2 (2.2.2.1) step 10 and 11.<br/>
+![](/image/223311%20OV-5a%20Diagram%20complete.jpg)
+*Note: The process to hide the information shown on both ends of **Composition** line is described in CV-2 (2.2.2.1) step 10 and 11.*<br/>
 ## 2.2.3.4	Create OV-5b: Operational Activity Model<br/>
 ###
 For more detailed information about OV-5b: Operational Activity Model, go to the website of Department of Defense.<br/>
