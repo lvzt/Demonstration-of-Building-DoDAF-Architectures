@@ -138,31 +138,30 @@ DoDAF Demonstration github 20220129
 ![](/image/22213%20CV-4%20Change%20Perspective%20complete.jpg)<br/>
 ## 2.2.2.2	Create CV-4: Capability Dependencies<br/>
 ###
-For more detailed information about CV-4: Capability Dependencies, go to the website of Department of Defense.<br/>
-1.	Right click on CapabilityViewPkg, select Add New -> Capability View Products -> CV-4 Capability Taxonomy<br/>
- 
-2.	Fill in a name for the diagram and click OK<br/>
- 
-3.	Expand Capabilities and press Ctrl then select Punctuality and Rapidness<br/>
- 
-4.	Drag Punctuality and Rapidness on the diagram<br/>
- 
-5.	By default, the perspective is in Getting Started, so some items on drawing panel are not displayed, to show more drawing items click the perspective list and select Basic<br/>
- 
-Note: the perspective panel is on the upper left.<br/>
-6.	Click  on the Diagram Tools then connect Punctuality with Rapidness<br/>
- 
+For more detailed information about CV-4: Capability Dependencies, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_cv4/) of Department of Defense.<br/>
+1.	Right click on **CapabilityViewPkg**, select **Add New -> Capability View Products -> CV-4 Capability Taxonomy**<br/>
+![](/image/22214%20CV-4%20Create.jpg)
+2.	Fill in a name for the diagram and click **OK**<br/>
+![](/image/22215%20CV-4%20Diagram%20name.jpg)
+3.	Expand **Capabilities** and press Ctrl then select **Punctuality** and **Rapidness**<br/>
+![](/image/22216%20CV-4%20Drag%20Capability.jpg)
+4.	Drag **Punctuality** and **Rapidness** on the diagram<br/>
+![](/image/22217%20CV-4%20Diagram.jpg)
+5.	By default, the perspective is in **Getting Started**, so some items on drawing panel are not displayed, to show more drawing items click the perspective list and select **Basic**<br/>
+![](/image/22218%20CV-4%20Change%20Perspective.jpg)
+6.	Click **Dependency** ![](/image/22219%20CV-4%20Dependency.jpg) tool on the Diagram Tools then connect **Punctuality** with **Rapidness**<br/>
+![](/image/22220%20CV-4%20Diagram%20with%20dependency.jpg)<br/>
 ## 2.2.3	Build Operational Viewpoint (OV)<br/>
-For more detailed information about Operational Viewpoint, go to the website of Department of Defense.<br/>
+For more detailed information about Operational Viewpoint, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_operational/) of Department of Defense.<br/>
 ## 2.2.3.1	Create OV-1: High-Level Operational Concept Graphic<br/>
 ###
-For more detailed information about OV-1: High-Level Operational Concept Graphic, go to the website of Department of Defense.<br/>
-1.	Right click on OperationalViewPkg, select Add New -> Operational View Products -> OV-1 High Level Operational Concept<br/>
- 
+For more detailed information about OV-1: High-Level Operational Concept Graphic, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_ov1/) of Department of Defense.<br/>
+1.	Right click on **OperationalViewPkg**, select **Add New -> Operational View Products -> OV-1 High Level Operational Concept**<br/>
+![](/image/223101%20OV-1%20Create.jpg)
 2.	Fill in a name for the diagram and click OK<br/>
- 
+
 3.	Click   on Diagram Tools then add a high level operational concept on panel<br/>
- 
+
 4.	Right-click the high level operational concept and select Features…<br/>
  
 5.	Fill in a name for the high level operational concept and click OK<br/>
