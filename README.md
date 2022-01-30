@@ -272,6 +272,7 @@ For more detailed information about OV-6c: Event-Trace Description, go to the [w
 ![](/image/223510%20OV-6c%20Auto%20Realize%20all%20elements.jpg)
 10.	New events are created under **Event** and new operations are created under each performers<br/>
 ![](/image/223511%20OV-6c%20Realized%20Events.jpg)
+![](/image/223512%20OV-6c%20Realized%20Operations.jpg)<br/>
 ## 2.2.3.6	Create Interfaces<br/>
 ###
 Note: The Interface is not included in DoDAF. However, it’s critical for passing the events created in previous step (OV-6c) between nodes. In addition, all interfaces have to be attached on ports which can be added in next step (OV-2 (IBD)). All interfaces are direction related so usually the format is Sender_Receiver.<br/>
