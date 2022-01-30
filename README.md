@@ -163,14 +163,15 @@ For more detailed information about OV-1: High-Level Operational Concept Graphic
 3.	Click **HighLevelOperationalConcept** ![](/image/223103%20OV-1%20High%20Level%20Operational%20Concept.jpg) tool on **Diagram Tools** then add a high level operational concept on panel<br/>
 ![](/image/223104%20OV-1%20Diagram%20with%20High%20Level%20Operational%20Concept.jpg)
 4.	Right-click the high level operational concept and select **Features…**<br/>
-
-5.	Fill in a name for the high level operational concept and click OK<br/>
-
-6.	Right-click City_Transportation and select Display Options…<br/>
- 
-7.	Click Layout & Image label and check Include Image under Layout<br/>
- 
-8.	Select Image Only and click   in Image Path: then choose a picture<br/>
+![](/image/223105%20OV-1%20Features.jpg)
+5.	Fill in a name for the high level operational concept and click **OK**<br/>
+![](/image/223106%20OV-1%20Diagram%20Name.jpg)
+![](/image/223107%20OV-1%20Diagram%20Ligh%20level%20Operational%20Concept%20with%20name.jpg)
+6.	Right-click **City_Transportation** and select **Display Options…**<br/>
+![](/image/223108%20OV-1%20Display%20Options.jpg)
+7.	Click **Layout & Image label** and check **Include Image** under **Layout**<br/>
+![](/image/223109%20OV-1%20Layout%20Image.jpg)
+8.	Select **Image Only** and click ![](/image/223110%20OV-1%20Layout%20Image.jpg) in **Image Path:** then choose a picture<br/>
 
 ## 2.2.3.2	Create OV-2: Operational Resource Flow Description<br/>
 ###
