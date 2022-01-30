@@ -191,8 +191,8 @@ For more detailed information about OV-2: Operational Resource Flow Description,
 7.	Change the name of all those four **Performer** elements<br/>
 ![](/image/223210%20OV-2%20Diagram%20performer%20change%20name.jpg)
 8.	Click **Composition** ![](/image/223211%20OV-2%20Composition%20tool.jpg) tool then add the relation between the logical architecture and performers<br/>
-![](/image/223212%20OV-2%20Diagram%20complete.jpg)
-*Note: The process to hide the information shown on both ends of **Composition** line is described in CV-2 (2.2.2 A) step 10 and 11.*<br/>
+![](/image/223212%20OV-2%20Diagram%20complete.jpg)<br/>
+*Note: The process to hide the information shown on both ends of **Composition** line is described in CV-2 (2.2.2.1) step 10 and 11.*<br/>
 ## 2.2.3.3	Create OV-5a: Operational Activity Decomposition Tree<br/>
 ###
 For more detailed information about OV-5a: Operational Activity Decomposition Tree, go to the website of Department of Defense.<br/>
@@ -212,7 +212,7 @@ For more detailed information about OV-5a: Operational Activity Decomposition Tr
  
 8.	Add two more operational activities then connect them with performer<br/>
  
-Note: The process to hide the information shown on both ends of Composition line is described in CV-2 (2.2.2 A) step 10 and 11.<br/>
+Note: The process to hide the information shown on both ends of Composition line is described in CV-2 (2.2.2.1) step 10 and 11.<br/>
 ## 2.2.3.4	Create OV-5b: Operational Activity Model<br/>
 ###
 For more detailed information about OV-5b: Operational Activity Model, go to the website of Department of Defense.<br/>
