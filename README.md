@@ -175,24 +175,24 @@ For more detailed information about OV-1: High-Level Operational Concept Graphic
 
 ## 2.2.3.2	Create OV-2: Operational Resource Flow Description<br/>
 ###
-For more detailed information about OV-2: Operational Resource Flow Description, go to the website of Department of Defense.<br/>
-1.	Right click on OperationalViewPkg, select Add New -> Operational View Products -> OV-2 Operational Resource Flow Description BDD<br/>
- 
-2.	Fill in a name for the diagram and click OK<br/>
- 
-3.	Click   on Diagram Tools then add a logical architecture on panel<br/>
- 
-4.	Right-click logical architecture and select Features…<br/>
- 
-5.	Fill in a name for logical architecture and click OK<br/>
- 
-6.	Click   on Diagram Tools and add four Performer elements<br/>
- 
-7.	Change the name of all those four Performer elements<br/>
- 
-8.	Click   tool then add the relation between the logical architecture and performers<br/>
- 
-Note: The process to hide the information shown on both ends of Composition line is described in CV-2 (2.2.2 A) step 10 and 11.<br/>
+For more detailed information about OV-2: Operational Resource Flow Description, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_ov2/) of Department of Defense.<br/>
+1.	Right click on **OperationalViewPkg**, select **Add New -> Operational View Products -> OV-2 Operational Resource Flow Description BDD**<br/>
+![](/image/223201%20OV-2%20Create.jpg)
+2.	Fill in a name for the diagram and click **OK**<br/>
+![](/image/223202%20OV-2%20Diagram%20name.jpg)
+3.	Click **LogicalArchitecture** ![](/image/223203%20OV-2%20Logical%20Architecture.jpg) tool on **Diagram Tools** then add a logical architecture on panel<br/>
+![](/image/223204%20OV-2%20Diagram%20with%20logicalarchitecture.jpg)
+4.	Right-click logical architecture and select **Features…**<br/>
+![](/image/223205%20OV-2%20Logical%20Architecture%20features.jpg)
+5.	Fill in a name for logical architecture and click **OK**<br/>
+![](/image/223206%20OV-2%20Logical%20Architecture%20name.jpg)
+6.	Click **Performer** ![](/image/223208%20OV-2%20Performer.jpg) tool on **Diagram Tools** and add four **Performer** elements<br/>
+![](/image/223209%20OV-2%20Diagram%20logicalarchitecture%20with%20performer.jpg)
+7.	Change the name of all those four **Performer** elements<br/>
+![](/image/223210%20OV-2%20Diagram%20performer%20change%20name.jpg)
+8.	Click **Composition** ![](/image/223211%20OV-2%20Composition%20tool.jpg) tool then add the relation between the logical architecture and performers<br/>
+![](/image/223212%20OV-2%20Diagram%20complete.jpg)
+*Note: The process to hide the information shown on both ends of **Composition** line is described in CV-2 (2.2.2 A) step 10 and 11.*<br/>
 ## 2.2.3.3	Create OV-5a: Operational Activity Decomposition Tree<br/>
 ###
 For more detailed information about OV-5a: Operational Activity Decomposition Tree, go to the website of Department of Defense.<br/>
