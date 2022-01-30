@@ -212,7 +212,7 @@ For more detailed information about OV-5a: Operational Activity Decomposition Tr
 7.	Click **ActivityPerformedByPerformer** ![](/image/223309%20OV-5a%20ActivityPerformedByPerformer.jpg) tool on **Diagram Tools** then add relationship between performer and operational activity<br/>
 ![](/image/223310%20OV-5a%20Diagram%20Activity%20with%20performer.jpg)
 8.	Add two more operational activities then connect them with performer<br/>
-![](/image/223311%20OV-5a%20Diagram%20complete.jpg)
+![](/image/223311%20OV-5a%20Diagram%20complete.jpg)<br/>
 *Note: The process to hide the information shown on both ends of **Composition** line is described in CV-2 (2.2.2.1) step 10 and 11.*<br/>
 ## 2.2.3.4	Create OV-5b: Operational Activity Model<br/>
 ###
@@ -228,7 +228,7 @@ For more detailed information about OV-5b: Operational Activity Model, go to the
 5.	Drag **People** from **Performers** and drop on the title of the swinlane<br/>
 ![](/image/223420%20OV-5b%20Drag%20Performer.jpg)
 ![](/image/223421%20OV-5b%20Release%20Performer%20on%20Swimlane%20Title.jpg)
-![](/image/223407%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Performer.jpg)
+![](/image/223407%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Performer.jpg)<br/>
 *Note: If the performer is dropped on the diagram, it can be deleted (from view)*.<br/>
 6.	Add two more swimlanes and drag all other three performers(**Ground_transportation**, **Aerial_transportation** and **Railway_transportation**) on the title of swimlanes<br/>
 ![](/image/223408%20OV-5b%20Operational%20Activity%20Model%20Swimlane%20Performers.jpg)
@@ -241,7 +241,7 @@ For more detailed information about OV-5b: Operational Activity Model, go to the
 10.	Click **Initial Flow** ![](/image/223413%20OV-5b%20Initial%20Flow.jpg) tool on **Diagram Tools** then add initial flow on panel and connect with **Set_out** action<br/>
 ![](/image/223414%20OV-5b%20Operational%20Activity%20with%20Initial%20Flow.jpg)
 11.	Add more operational activity action and other needed items to complete the diagram. **OperationalActivityEdge** ![](/image/223415%20OV-5b%20OperationalActivityEdge.jpg) tool is used to connect operational activity actions.<br/>
-![](/image/223416%20OV-5b%20Operational%20Activity%20complete.jpg)
+![](/image/223416%20OV-5b%20Operational%20Activity%20complete.jpg)<br/>
 *Note: If the swinlane frame is too small, click the frame and press and hold Alt then use left-button of mouse to expand it.*<br/>
 12.	 Right-click on empty place of diagram (please note do not select any items on diagram) and select **UPDM Toolkit -> Create Activities For ActionsCommand**<br/>
 ![](/image/223417%20OV-5b%20Create%20Activities%20For%20ActionCommand.jpg)
