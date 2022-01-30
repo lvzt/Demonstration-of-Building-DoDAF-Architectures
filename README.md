@@ -251,27 +251,27 @@ For more detailed information about OV-5b: Operational Activity Model, go to the
 ![](/image/223419%20OV-5b%20Created%20Activities.jpg)
 ## 2.2.3.5	Create OV-6c: Event-Trace Description<br/>
 ###
-For more detailed information about OV-6c: Event-Trace Description, go to the website of Department of Defense.<br/>
-1.	Right click on OperationalViewPkg, select Add New -> Operational View Products -> OV-6c Event Trace Description<br/>
- 
-2.	Fill in a name for the diagram and click OK<br/>
- 
-3.	Expand Performers then each performer on the diagram<br/>
- 
-4.	Click   on Diagram Tools then add operational messages on the lifeline and change the name of messages according to OV-5b<br/>
- 
+For more detailed information about OV-6c: Event-Trace Description, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_ov6c/) of Department of Defense.<br/>
+1.	Right click on **OperationalViewPkg**, select **Add New -> Operational View Products -> OV-6c Event Trace Description**<br/>
+![](/image/223501%20OV-6c%20Create.jpg)
+2.	Fill in a name for the diagram and click **OK**<br/>
+![](/image/223502%20OV-6c%20Diagram%20name.jpg)
+3.	Expand **Performers** then drag each performer on the diagram<br/>
+![](/image/223503%20OV-6c%20Drag%20Lifeline.jpg)
+4.	Click **OperationalMessage** ![](/image/223504%20OV-6c%20Operational%20Message.jpg) tool on **Diagram Tools** then add operational messages on the lifeline and change the name of messages according to OV-5b<br/>
+![](/image/223505%20OV-6c%20Operational%20Message%20Diagram.jpg)
 5.	Add operational message between lifelines and change the name of messages and change the name<br/>
- 
-6.	Right-click the message reqGround_stop then click Features…<br/>
- 
-7.	Change Message Type from Operation to Event then click OK<br/>
- 
+![](/image/223506%20OV-6c%20Operational%20Message%20and%20Event%20Diagram.jpg)
+6.	Right-click the message **reqGround_stop** then click **Features…**<br/>
+![](/image/223507%20OV-6c%20Operational%20Message%20Features.jpg)
+7.	Change **Message Type** from **Operation** to **Event** then click **OK**<br/>
+![](/image/223508%20OV-6c%20Change%20to%20event.jpg)
 8.	Complete diagram according to OV-5b: Operational Activity Model<br/>
- 
-9.	Right-click on empty place of diagram (please note do not select any items on diagram) and select Auto Realize all elements<br/>
- 
-10.	New events are created under Event and new operations are created under each performers<br/>
- 
+![](/image/223509%20OV-6c%20Diagram%20complete.jpg)
+9.	Right-click on empty place of diagram (please note do not select any items on diagram) and select **Auto Realize all elements**<br/>
+![](/image/223510%20OV-6c%20Auto%20Realize%20all%20elements.jpg)
+10.	New events are created under **Event** and new operations are created under each performers<br/>
+![](/image/223511%20OV-6c%20Realized%20Events.jpg)
 ## 2.2.3.6	Create Interfaces<br/>
 ###
 Note: The Interface is not included in DoDAF. However, it’s critical for passing the events created in previous step (OV-6c) between nodes. In addition, all interfaces have to be attached on ports which can be added in next step (OV-2 (IBD)). All interfaces are direction related so usually the format is Sender_Receiver.<br/>
