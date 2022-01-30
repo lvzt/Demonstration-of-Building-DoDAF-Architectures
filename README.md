@@ -158,12 +158,12 @@ For more detailed information about Operational Viewpoint, go to the [website](h
 For more detailed information about OV-1: High-Level Operational Concept Graphic, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_ov1/) of Department of Defense.<br/>
 1.	Right click on **OperationalViewPkg**, select **Add New -> Operational View Products -> OV-1 High Level Operational Concept**<br/>
 ![](/image/223101%20OV-1%20Create.jpg)
-2.	Fill in a name for the diagram and click OK<br/>
+2.	Fill in a name for the diagram and click **OK**<br/>
+![](/image/223102%20OV-1%20Diagram%20name.jpg)
+3.	Click **HighLevelOperationalConcept** ![](/image/223103%20OV-1%20High%20Level%20Operational%20Concept.jpg) tool on **Diagram Tools** then add a high level operational concept on panel<br/>
+![](/image/223104%20OV-1%20Diagram%20with%20High%20Level%20Operational%20Concept.jpg)
+4.	Right-click the high level operational concept and select **Features…**<br/>
 
-3.	Click   on Diagram Tools then add a high level operational concept on panel<br/>
-
-4.	Right-click the high level operational concept and select Features…<br/>
- 
 5.	Fill in a name for the high level operational concept and click OK<br/>
 
 6.	Right-click City_Transportation and select Display Options…<br/>
