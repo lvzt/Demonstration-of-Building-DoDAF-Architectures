@@ -459,36 +459,36 @@ For more detailed information about System Viewpoint, go to the [website](https:
 ###
 For more detailed information about SV-1: Systems Interface Description, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_sv1/) of Department of Defense.<br/>
 <br/>
-Follow the process 2.2.3.2 Create OV-2: Operational Resource Flow Description.<br/>
+Follow the process [2.2.3.2 Create OV-2: Operational Resource Flow Description](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2232create-ov-2-operational-resource-flow-description).<br/>
 ![](/image/225101%20SV-1%20System%20Interface%20Diagram.jpg)
 ## 2.2.5.2	Create SV-4: Systems Functionality Description<br/>
 ###
 For more detailed information about SV-4: Systems Functionality Description, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_sv4/) of Department of Defense.<br/>
 <br/>
-Follow the process 2.2.3.4 Create OV-5b: Operational Activity Model.<br/>
+Follow the process [2.2.3.4 Create OV-5b: Operational Activity Model](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2234create-ov-5b-operational-activity-model).<br/>
 ![](/image/225102%20SV-4%20System%20Functionality%20Diagram.jpg)
 ## 2.2.5.3	Create SV-10c: Systems Event-Trace Description<br/>
 ###
 For more detailed information about SV-10c: Systems Event-Trace Description, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_sv10c/) of Department of Defense.<br/>
 <br/>
-Follow the process 2.2.3.5 Create OV-6c: Event-Trace Description.<br/>
+Follow the process [2.2.3.5 Create OV-6c: Event-Trace Description](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2235create-ov-6c-event-trace-description).<br/>
 <br/>
 *(Diagram is omitted.)*<br/>
 ## 2.2.5.4	Create Interfaces<br/>
 ###
-Follow the process 2.2.3.6 Create Interfaces.<br/>
+Follow the process [2.2.3.6 Create Interfaces](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2236create-interfaces).<br/>
 <br/>
 *(Diagram is omitted.)*<br/>
 ## 2.2.5.5	Create SV-1 (IBD):  Systems Interface Description<br/>
 ###
-Follow the process 2.2.3.7 Create OV-2(IBD): Operational Resource Flow Description.<br/>
+Follow the process [2.2.3.7 Create OV-2(IBD): Operational Resource Flow Description](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2237create-ov-2ibd-operational-resource-flow-description).<br/>
 <br/>
 *(Diagram is omitted.)*<br/>
 ## 2.2.5.6	Create SV-10b: Systems State Transition Description<br/>
 ###
 For more detailed information about SV-10b: Systems State Transition Description, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_sv10b/) of Department of Defense.<br/>
 <br/>
-Follow the process 2.2.3.8 Create OV-6b: State Transition Description.<br/>
+Follow the process [2.2.3.8 Create OV-6b: State Transition Description](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2238create-ov-6b-state-transition-description).<br/>
 <br/>
 *(Diagram is omitted.)*<br/>
 ## 2.2.6	Build interdependent viewpoint<br/>
