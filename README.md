@@ -387,8 +387,9 @@ For more detailed information about OV-6b: State Transition Description, go to t
 17.	Change name to **SendReq_Ground_stop** and change **Type** to **bool** and fill **false** in **Initial Value** then click **OK**<br/>
 ![](/image/223820%20OV-6b%20Value%20property%20name%20type%20initial%20value.jpg)
 18.	Add transition from **Waiting** to **sendreq_Ground_transportation** then add **!SendReq_Ground_stop** in **Guard**<br/>
-
-19.	Add transition from sendreq_Ground_transportation to Waiting then add setSendReq_Ground_stop(true); in Action<br/>
+![](/image/223834%20Transition%20with%20guard.jpg)
+![](/image/223821%20OV-6b%20Add%20transition%20from%20state%20to%20send%20action.jpg)
+19.	Add transition from **sendreq_Ground_transportation** to **Waiting** then add **setSendReq_Ground_stop(true);** in **Action**<br/>
 
 *Note: Set a value to indicate whether the event is sent to the other performer, and the event is only sent once.*<br/>
 20.	According to OV-5b and OV-6c then complete the OV-6b for People performer<br/>
