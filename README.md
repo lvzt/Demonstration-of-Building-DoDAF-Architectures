@@ -361,54 +361,55 @@ For more detailed information about OV-6b: State Transition Description, go to t
 *Note: Ctrl + space can be used to call out a list for selecting all realized operations. But it is not available on Windows 7 because of input system.*<br/>
 6.	(Optional) Press the red circle on **Walking_on_street** state then show the operation in the state<br/>
 ![](/image/223808%20OV-6b%20Second%20state%20show%20operation.jpg)
-7.	Connect two states with transition<br/>
+7.	7.	Click **Transition** ![](/image/223833%20Transition%20tool.jpg) tool on **Diagram Tools** then add to diagram and connect two states with transition<br/>
+![](/image/223809%20OV-6b%20Second%20state%20connect%20with%20first%20state.jpg)<br/>
+*Note: Line shape can be changed by right-clicking the transition and select **Line Shape -> Rectilinear**. To change the default line shape, go to step 24 - 28.*<br/>
+8.	Right click the transition between **Packaging** and **Walking_on_street** then select **Features…**<br/>
+![](/image/223810%20OV-6b%20Transition%20feature.jpg)
+9.	Type in **tm(1000)** in **Trigger** and press **Enter** on keyboard and type in **Set_out();** in **Action** then click **OK**<br/>
+![](/image/223811%20OV-6b%20Transition%20add%20tm%20and%20action.jpg)
+*Note: tm() is internal function which means time delay, and the unit is millisecond.*<br/>
+10.	Add one more state then change the name to **Waiting** and add **Wait();** in **Action on Entry** then add transition between **Walking_on_street** and **Waiting** then add **Get_to_place();** action in transition<br/>
+![](/image/223812%20OV-6b%20Add%20third%20state.jpg)
+11.	Click **Send Action** ![](/image/223813%20OV-6b%20Send%20action%20add.jpg) tool on **Diagram Tools** then add to panel<br/>
+![](/image/223814%20OV-6b%20Add%20send%20action.jpg)
+12.	Right-click send action then select **Features…**<br/>
+![](/image/223815%20OV-6b%20Send%20action%20features.jpg)
+13.	Change name to **sendreq_Ground_transportation** and select **pGround** in **Target** and **reqGround_stop** in **Event**<br/>
+![](/image/223816%20OV-6b%20Send%20action%20name%20port%20event.jpg)
+14.	Expand **Packages** then right-click **BlockModeling** and select **Add New -> SysML -> ValueProperty**<br/>
+![](/image/223817%20OV-6b%20Value%20property%20create_modify.jpg)
+15.	Drag the value property to **People** performer<br/>
+![](/image/223818%20OV-6b%20Value%20property%20drag.jpg)<br/>
+*Note: In current version of Rhapsody, value property cannot be added directly under Performer in OV or System in SV. This is the reason why it is created in another package and dragged to the right place.*<br/>
+16.	Right-click **valueproperty_0** then select **Features…**<br/>
+![](/image/223819%20OV-6b%20Value%20property%20features.jpg)
+17.	Change name to **SendReq_Ground_stop** and change **Type** to **bool** and fill **false** in **Initial Value** then click **OK**<br/>
+![](/image/223820%20OV-6b%20Value%20property%20name%20type%20initial%20value.jpg)
+18.	Add transition from **Waiting** to **sendreq_Ground_transportation** then add **!SendReq_Ground_stop** in **Guard**<br/>
 
-Note: Line shape can be changed by right-clicking the transition and select Line Shape -> Rectilinear. To change the default line shape, go to step 24 - 28.<br/>
-8.	Right click the transition between Packaging and Walking_on_street then select Features…<br/>
- 
-9.	Type in tm(1000) in Trigger and press Enter on keyboard and type in Set_out(); in Action then click OK<br/>
- 
-Note: tm is internal function which means time delay, and the unit is millisecond.<br/>
-10.	Add one more state then change the name to Waiting and add Wait(); in Action on Entry then add transition between Walking_on_street and Waiting then add Get_to_place(); action in transition<br/>
- 
-11.	Click   on Diagram Tools then add to panel<br/>
- 
-12.	Right-click send action then select Features…<br/>
- 
-13.	Change name to sendreq_Ground_transportation and select pGround in Target and reqGround_stop in Event<br/>
- 
-14.	Expand Packages then right-click BlockModeling and select Add New -> SysML -> ValueProperty<br/>
- 
-15.	Drag the value property to People performer<br/>
- 
-16.	Right-click valueproperty_0 then select Features…<br/>
- 
-17.	Change name to SendReq_Ground_stop and change Type to bool and fill false in Initial Value then click OK<br/>
- 
-18.	Add transition from Waiting to sendreq_Ground_transportation then add !SendReq_Ground_stop in Guard<br/>
- 
 19.	Add transition from sendreq_Ground_transportation to Waiting then add setSendReq_Ground_stop(true); in Action<br/>
- 
-Note: Set a value to indicate whether the event is sent to the other performer, and the event is only sent once.<br/>
+
+*Note: Set a value to indicate whether the event is sent to the other performer, and the event is only sent once.*<br/>
 20.	According to OV-5b and OV-6c then complete the OV-6b for People performer<br/>
- 
+
 21.	According to OV-5b and OV-6c complete OV-6b for Aerial_transportation performer<br/>
- 
+
 22.	According to OV-5b and OV-6c complete OV-6b for Ground_transportation performer<br/>
- 
-Note: The Condition connector   is not shown on tool panel under Rhapsody 9.0. But this item can be copied from other project and paste to current and there is not problem during compiling.<br/>
+
+*Note: The Condition connector   is not shown on tool panel under Rhapsody 9.0. But this item can be copied from other project and paste to current and there is not problem during compiling.*<br/>
 23.	According to OV-5b and OV-6c complete OV-6b for Railway_transportation performer
- 
+
 24.	(Optional) To change the default transition line shape for OV-6b, right-click project root TransportationSoS then select Features…<br/>
- 
+
 25.	(Optional) Select Properties and click View Common then select All<br/>
- 
+
 26.	(Optional) Expand StatechartDiagram<br/>
- 
+
 27.	(Optional) Expand Default Transition then change line_style to rectilinear_arrows<br/>
- 
+
 28.	 (Optional) Expand Transition then change line_style to rectilinear_arrows then click OK<br/>
- 
+
 ## 2.2.4	Configure component and execute model<br/>
 ## 2.2.4.1	Configure Scope<br/>
 ###
