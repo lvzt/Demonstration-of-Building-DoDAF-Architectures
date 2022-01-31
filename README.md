@@ -275,22 +275,24 @@ For more detailed information about OV-6c: Event-Trace Description, go to the [w
 ![](/image/223512%20OV-6c%20Realized%20Operations.jpg)<br/>
 ## 2.2.3.6	Create Interfaces<br/>
 ###
-Note: The Interface is not included in DoDAF. However, it’s critical for passing the events created in previous step (OV-6c) between nodes. In addition, all interfaces have to be attached on ports which can be added in next step (OV-2 (IBD)). All interfaces are direction related so usually the format is Sender_Receiver.<br/>
-1.	Click the perspective list and select Advanced<br/>
- 
-Note: the perspective panel is on the upper left.<br/>
-2.	Right click on OperationalViewPkg, select Add New -> Blocks -> Interface<br/>
- 
-3.	Open ov-6c event trace description_transportation and find the first event reqGround_stop() because the event is sent from People to Ground_transportation then change the interface name to People_ Ground_transportation<br/>
- 
-4.	Right-click the event reqGround_stop() then click Navigate -> Locate in Browser<br/>
- 
-5.	The event reqGround_stop() can be found in left tree. Drag this event to People_ Ground_transportation interface<br/>
-
-6.	When drop the event to the interface, a notice is shown and click OK then a new reception is created under the interface<br/>
- 
-7.	According to ov-6c event trace description_transportation then create all other interfaces and corresponding receptions<br/>
- 
+*Note: The Interface is not included in DoDAF. However, it’s critical for passing the events created in previous step (OV-6c) between nodes. In addition, all interfaces have to be attached on ports which can be added in next step (OV-2 (IBD)). All interfaces are direction related so usually the format is Sender_Receiver.*<br/>
+1.	Click the perspective list and select **Advanced**<br/>
+![](/image/223601%20Interface%20Change%20Perspective.jpg)<br/>
+*Note: the perspective panel is on the upper left.*<br/>
+2.	Right click on **OperationalViewPkg**, select **Add New -> Blocks -> Interface**<br/>
+![](/image/223602%20Interface%20Create%20interface.jpg)
+3.	Open **ov-6c event trace description_transportation** and find the first event **reqGround_stop()** because the event is sent from **People** to **Ground_transportation** then change the interface name to **People_ Ground_transportation**<br/>
+![](/image/223603%20Interface%20Change%20interface%20name.jpg)
+4.	Right-click the event **reqGround_stop()** then click **Navigate -> Locate in Browser**<br/>
+![](/image/223604%20Interface%20Navigate%20event.jpg)
+5.	The event **reqGround_stop()** can be found in left tree. Drag this event to **People_ Ground_transportation** interface<br/>
+![](/image/223605%20Interface%20Select%20event.jpg)
+![](/image/223606%20Interface%20Drag%20to%20interface.jpg)
+6.	When drop the event to the interface, a notice is shown and click **OK** then a new reception is created under the interface<br/>
+![](/image/223607%20Interface%20Reception%20notice.jpg)
+![](/image/223608%20Interface%20Created%20reception.jpg)
+7.	According to **ov-6c event trace description_transportation** then create all other interfaces and corresponding receptions<br/>
+![](/image/223609%20Interface%20Completed%20all%20receptions.jpg)
 ## 2.2.3.7	Create OV-2(IBD): Operational Resource Flow Description<br/>
 ###
 1.	Right click on OperationalViewPkg, select Add New -> Operational View Products -> OV-2 Operational Resource Flow Description<br/>
