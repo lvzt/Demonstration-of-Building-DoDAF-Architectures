@@ -390,27 +390,28 @@ For more detailed information about OV-6b: State Transition Description, go to t
 ![](/image/223834%20Transition%20with%20guard.jpg)
 ![](/image/223821%20OV-6b%20Add%20transition%20from%20state%20to%20send%20action.jpg)
 19.	Add transition from **sendreq_Ground_transportation** to **Waiting** then add **setSendReq_Ground_stop(true);** in **Action**<br/>
-
+![](/image/223835%20Transition%20with%20set%20value.jpg)
+![](/image/223822%20OV-6b%20Add%20trasition%20from%20send%20action%20to%20state.jpg)<br/>
 *Note: Set a value to indicate whether the event is sent to the other performer, and the event is only sent once.*<br/>
-20.	According to OV-5b and OV-6c then complete the OV-6b for People performer<br/>
-
-21.	According to OV-5b and OV-6c complete OV-6b for Aerial_transportation performer<br/>
-
-22.	According to OV-5b and OV-6c complete OV-6b for Ground_transportation performer<br/>
-
-*Note: The Condition connector   is not shown on tool panel under Rhapsody 9.0. But this item can be copied from other project and paste to current and there is not problem during compiling.*<br/>
-23.	According to OV-5b and OV-6c complete OV-6b for Railway_transportation performer
-
-24.	(Optional) To change the default transition line shape for OV-6b, right-click project root TransportationSoS then select Features…<br/>
-
-25.	(Optional) Select Properties and click View Common then select All<br/>
-
-26.	(Optional) Expand StatechartDiagram<br/>
-
-27.	(Optional) Expand Default Transition then change line_style to rectilinear_arrows<br/>
-
-28.	 (Optional) Expand Transition then change line_style to rectilinear_arrows then click OK<br/>
-
+20.	According to OV-5b and OV-6c then complete the OV-6b for **People** performer<br/>
+![](/image/223823%20OV-6b%20State%20diagram%20complete%20for%20first%20performer.jpg)
+21.	According to OV-5b and OV-6c complete OV-6b for **Aerial_transportation** performer<br/>
+![](/image/223824%20OV-6b%20State%20diagram%20complete%20for%20second%20performer.jpg)
+22.	According to OV-5b and OV-6c complete OV-6b for **Ground_transportation** performer<br/>
+![](/image/223826%20OV-6b%20State%20diagram%20complete%20for%20third%20performer.jpg)<br/>
+*Note: The **Condition connector** ![](/image/223825%20OV-6b%20Condition%20connector.jpg) tool is not shown on tool panel under Rhapsody 9.0. But this item can be copied from other project and paste to current and there is not problem during compiling. This problem is fixed in Rhapsody 9.0.1.*<br/>
+23.	According to OV-5b and OV-6c complete OV-6b for **Railway_transportation** performer
+![](/image/223827%20OV-6b%20State%20diagram%20complete%20for%20fourth%20performer.jpg)
+24.	(Optional) To change the default transition line shape for OV-6b, right-click project root **TransportationSoS** then select **Features…**<br/>
+![](/image/223828%20OV-6b%20project%20toot%20features.jpg)
+25.	(Optional) Select **Properties** and click **View Common** then select **All**<br/>
+![](/image/223829%20OV-6b%20Properties.jpg)
+26.	(Optional) Expand **StatechartDiagram**<br/>
+![](/image/223830%20OV-6b%20Properties%20view%20all.jpg)
+27.	(Optional) Expand **Default Transition** then change **line_style** to **rectilinear_arrows**<br/>
+![](/image/223831%20OV-6b%20Default%20transition%20line%20style.jpg)
+28.	 (Optional) Expand **Transition** then change **line_style** to **rectilinear_arrows** then click **OK**<br/>
+![](/image/223832%20OV-6b%20Transition%20line%20style.jpg)
 ## 2.2.4	Configure component and execute model<br/>
 ## 2.2.4.1	Configure Scope<br/>
 ###
