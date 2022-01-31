@@ -347,22 +347,22 @@ For more detailed information about OV-6c: Event-Trace Description, go to the [w
 *Note: Click one block then press Ctrl + Alt + t so all blocks can be selected.*<br/>
 ## 2.2.3.8	Create OV-6b: State Transition Description<br/>
 ###
-For more detailed information about OV-6b: State Transition Description, go to the website of Department of Defense.<br/>
-1.	Expand Performers and right-click People performer then click Add New -> Operational View Products -> OV-6b State Transition Description<br/>
- 
-2.	Click   on Diagram Tools then add a state on panel and change the name to Packaging<br/>
- 
-3.	Click   on Diagram Tools then add to Packaging state<br/>
- 
-4.	Add one more state and right-click the state then select Features…<br/>
- 
-5.	Change the name to Walking_on_street and add operation Walk_on_street() in Action on entry then optionally add ; after the operation<br/>
- 
-Note: Ctrl + space can be used to call out a list for selecting all realized operations. But it is not available on Windows 7 because of input system.<br/>
-6.	(Optional) Press the red circle on Walking_on_street state then show the operation in the state<br/>
- 
+For more detailed information about OV-6b: State Transition Description, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_ov6b/) of Department of Defense.<br/>
+1.	Expand Performers and right-click **People** performer then click **Add New -> Operational View Products -> OV-6b State Transition Description**<br/>
+![](/image/223801%20OV-6b%20Create%20for%20people.jpg)
+2.	Click **OperationalState** ![](/image/223802%20OV-6b%20Operational%20state.jpg) tool on **Diagram Tools** then add a state on panel and change the name to **Packaging**<br/>
+![](/image/223803%20OV-6b%20Add%20one%20state.jpg)
+3.	Click **Default Transition** ![](/image/223804%20OV-6b%20Default%20transition.jpg) tool on **Diagram Tools** then add on diagram and connect to **Packaging** state<br/>
+![](/image/223805%20OV-6b%20Default%20transition%20connect%20state.jpg)
+4.	Add one more state and right-click the state then select **Features…**<br/>
+![](/image/223806%20OV-6b%20Second%20state%20features.jpg)
+5.	Change the name to **Walking_on_street** and add operation **Walk_on_street()** in **Action on entry** then add **;** after the operation<br/>
+![](/image/223807%20OV-6b%20Second%20state%20name%20and%20operation.jpg)<br/>
+*Note: Ctrl + space can be used to call out a list for selecting all realized operations. But it is not available on Windows 7 because of input system.*<br/>
+6.	(Optional) Press the red circle on **Walking_on_street** state then show the operation in the state<br/>
+![](/image/223808%20OV-6b%20Second%20state%20show%20operation.jpg)
 7.	Connect two states with transition<br/>
- 
+
 Note: Line shape can be changed by right-clicking the transition and select Line Shape -> Rectilinear. To change the default line shape, go to step 24 - 28.<br/>
 8.	Right click the transition between Packaging and Walking_on_street then select Features…<br/>
  
