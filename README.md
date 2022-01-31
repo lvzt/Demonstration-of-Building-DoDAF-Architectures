@@ -282,7 +282,7 @@ For more detailed information about OV-6c: Event-Trace Description, go to the [w
 2.	Right click on **OperationalViewPkg**, select **Add New -> Blocks -> Interface**<br/>
 ![](/image/223602%20Interface%20Create%20interface.jpg)
 3.	Open **ov-6c event trace description_transportation** and find the first event **reqGround_stop()** because the event is sent from **People** to **Ground_transportation** then change the interface name to **People_ Ground_transportation**<br/>
-
+![](/image/223603%20Interface%20Change%20interface%20name.jpg)
 4.	Right-click the event **reqGround_stop()** then click **Navigate -> Locate in Browser**<br/>
 ![](/image/223604%20Interface%20Navigate%20event.jpg)
 5.	The event **reqGround_stop()** can be found in left tree. Drag this event to **People_ Ground_transportation** interface<br/>
