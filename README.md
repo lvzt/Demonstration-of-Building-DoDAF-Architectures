@@ -289,7 +289,7 @@ For more detailed information about OV-6c: Event-Trace Description, go to the [w
 ![](/image/223605%20Interface%20Select%20event.jpg)
 ![](/image/223606%20Interface%20Drag%20to%20interface.jpg)
 6.	When drop the event to the interface, a notice is shown and click **OK** then a new reception is created under the interface<br/>
-![](/image/223607%20Interface%20Reception%20notice.jpg)
+![](/image/223607%20Interface%20Reception%20notice.jpg)<br/>
 ![](/image/223608%20Interface%20Created%20reception.jpg)
 7.	According to **ov-6c event trace description_transportation** then create all other interfaces and corresponding receptions<br/>
 ![](/image/223609%20Interface%20Completed%20all%20receptions.jpg)
