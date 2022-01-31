@@ -415,44 +415,43 @@ For more detailed information about OV-6b: State Transition Description, go to t
 ## 2.2.4	Configure component and execute model<br/>
 ## 2.2.4.1	Configure Scope<br/>
 ###
-1.	Expand TransportationSoS - > Components and right-click DefaultComponent then select Features…<br/>
- 
-2.	Select Scope<br/>
- 
-3.	Select Selected Elements then select OperationalViewPkg then click OK<br/>
- 
+1.	Expand **TransportationSoS - > Components** and right-click **DefaultComponent** then select **Features…**<br/>
+![](/image/224101%20OV%20Default%20Component.jpg)
+2.	Select **Scope**<br/>
+![](/image/224102%20OV%20Default%20Component%20scope.jpg)
+3.	Select **Selected Elements** then select **OperationalViewPkg** then click **OK**<br/>
+![](/image/224103%20OV%20Default%20Component%20selected%20scope.jpg)
 ## 2.2.4.2	Configure Initialization<br/>
 ###
-1.	Expand TransportationSoS - > Components -> Configurations and right-click DefaultConfig then select Features…<br/>
- 
-2.	Select Initialization<br/>
- 
-3.	Select DoDAD20_Architecture -> OperationalViewPkg -> logicalarchitecture_city_transportation then click Apply<br/>
- 
+1.	Expand **TransportationSoS - > Components -> Configurations** and right-click **DefaultConfig** then select **Features…**<br/>
+![](/image/224201%20OV%20DefaultConfig.jpg)
+2.	Select **Initialization**<br/>
+![](/image/224202%20OV%20DefaultConfig%20Initialization.jpg)
+3.	Select **DoDAD20_Architecture -> OperationalViewPkg -> logicalarchitecture_city_transportation** then click **Apply**<br/>
+![](/image/224203%20OV%20DefaultConfig%20selected%20Initialization.jpg)
 ## 2.2.4.3	Configure Settings<br/>
 ###
-1.	On previous window, select Settings<br/>
- 
-2.	Select Animation in Instrumentation Mode<br/>
- 
-3.	(optional) Select correct compiling environment in Environment Settings -> Environment<br/>
- 
-4.	Select Web Enabling then click OK<br/>
- 
-5.	Select Selected Elements then select OperationalViewPkg then click OK<br/>
+1.	On previous window, select **Settings**<br/>
+![](/image/224301%20OV%20DefaultConfig%20Settings.jpg)
+2.	Select **Animation** in **Instrumentation Mode**<br/>
+![](/image/224302%20OV%20DefaultConfig%20Settings%20animation.jpg)
+3.	(optional) Select correct compiling environment in **Environment Settings -> Environment**<br/>
+![](/image/224303%20OV%20DefaultConfig%20Settings%20environment.jpg)
+4.	(optional) Select **Web Enabling** then click **OK**<br/>
+![](/image/224304%20OV%20DefaultConfig%20Settings%20web%20enabling.jpg)
 ## 2.2.4.4	Execute model<br/>
 ###
-1.	Click button Generate/Make/Run<br/>
- 
-2.	Click Yes when a message is shown<br/>
- 
-3.	Click Go Action to start animation<br/>
- 
-Note:After clicking Go Action button, all animated state diagrams are activated and stop at first action. Usually, Go button   can be used for activating all state diagrams without stop.<br/>
-4.	After animation of all performers are shown, click Window then select Tile Horizontally to place all windows<br/>
- 
+1.	Click button **Generate/Make/Run**<br/>
+![](/image/224401%20OV%20Generate%20Make%20Run.jpg)
+2.	Click **Yes** when a message is shown<br/>
+![](/image/224402%20OV%20Create%20directory.jpg)
+3.	Click **Go Action** to start animation<br/>
+![](/image/224403%20OV%20Animation%20Go%20Action.jpg)<br/>
+*Note: After clicking **Go Action** button, all animated state diagrams are activated and stop at first action. Usually, **Go** ![](/image/224404%20OV%20Animation%20Go.jpg) button can be used for activating all state diagrams without stop.*<br/>
+4.	After animation of all performers are shown, click **Window** then select **Tile Horizontally** to place all windows in horizontal manner<br/>
+![](/image/224405OV%20Animation%20Window%20tile%20horizontally.jpg)
 5.	Debug the model<br/>
- 
+![](/image/224406%20OV%20Animation%20debug.jpg)
 ## 2.2.5	Build System Viewpoint (SV)<br/>
 ###
 For more detailed information about System Viewpoint, go to the website of Department of Defense.<br/>
@@ -461,13 +460,13 @@ For more detailed information about System Viewpoint, go to the website of Depar
 For more detailed information about SV-1: Systems Interface Description, go to the website of Department of Defense.<br/>
 <br/>
 Follow the process 2.2.3 B. Create OV-2: Operational Resource Flow Description.<br/>
- 
+
 ## 2.2.5.2	Create SV-4: Systems Functionality Description<br/>
 ###
 For more detailed information about SV-4: Systems Functionality Description, go to the website of Department of Defense.<br/>
 <br/>
 Follow the process 2.2.3 D. Create OV-5b: Operational Activity Model.<br/>
- 
+
 ## 2.2.5.3	Create SV-10c: Systems Event-Trace Description<br/>
 ###
 For more detailed information about SV-10c: Systems Event-Trace Description, go to the website of Department of Defense.<br/>
@@ -497,37 +496,37 @@ Follow the process 2.2.3 H. Create OV-6b: State Transition Description.<br/>
 ###
 For more detailed information about SV-5a: Operational Activity to Systems Function Traceability Matrix, go to the website of Department of Defense.<br/>
 1.	Right click on SystemViewPkg, select Add New -> System View Products -> SV-5a Operational Activity to Systems Function Traceability Matrix<br/>
- 
+
 2.	Fill in a name (sv-5a operational activity to systems function traceability matrix) for the matrix and right-click the matrix then select Features…<br/>
- 
+
 3.	Select SystemViewPkg in DoDAF20_Architecture in “From” Scope<br/>
- 
+
 4.	Select OperationalViewPkg in DoDAF20_Architecture in “To” Scope then click OK<br/>
- 
+
 5.	Double-click sv-5a operational activity to systems function traceability matrix to open the matrix<br/>
- 
+
 6.	If any changes are made, Refresh on tool panel can be used to update the matrix. Switch Rows and Columns can be used to transpose the matrix.<br/>
- 
+
 7.	Right-click the correct cell and select Add New -> Implements to add relationship between operational activity and system function<br/>
- 
+
 Note: Shift and Ctrl can be used for selecting multipal cells.<br/>
 ## 2.2.6.2	Create SV-5b: Operational Activity to Systems Traceability Matrix<br/>
 ###
 For more detailed information about SV-5b: Operational Activity to Systems Traceability Matrix, go to the website of Department of Defense.<br/>
 1.	Right click on SystemViewPkg, select Add New -> System View Products -> SV-5b Operational Activity to Systems Traceability Matrix<br/>
- 
+
 2.	Fill in a name (sv-5b operational activity to systems traceability matrix) for the matrix and right-click the matrix then select Features…<br/>
- 
+
 3.	Select SystemViewPkg in DoDAF20_Architecture in “From” Scope<br/>
- 
+
 4.	Select OperationalViewPkg in DoDAF20_Architecture in “To” Scope then click OK<br/>
- 
+
 5.	Double-click sv-5b operational activity to systems traceability matrix to open the matrix<br/>
- 
+
 6.	Press Switch Rows and Columns to transpose the matrix<br/>
- 
+
 7.	Right-click the correct cell and select Add New -> Implements to add relationship between operational activity and system function<br/>
- 
+
 ## 3	Integrated scenario demonstration with UE4 (Additional)<br/>
 ###
 In this section an integrated scenario is demonstrated. The model built in IBM Rational Rhapsody is modified and UDP module is added. Commands are sent from the model in Rhapsody then characters in Unreal Engine 4 (UE4) respond after receiving those commands. When the characters finish their actions in UE4, a message will be sent back to Rhapsody which causes state transition or further operation.<br/>
