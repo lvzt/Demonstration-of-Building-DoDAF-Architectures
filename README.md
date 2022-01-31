@@ -295,54 +295,56 @@ For more detailed information about OV-6c: Event-Trace Description, go to the [w
 ![](/image/223609%20Interface%20Completed%20all%20receptions.jpg)
 ## 2.2.3.7	Create OV-2(IBD): Operational Resource Flow Description<br/>
 ###
-1.	Right click on OperationalViewPkg, select Add New -> Operational View Products -> OV-2 Operational Resource Flow Description<br/>
- 
-2.	Fill in a name for the diagram and click OK<br/>
- 
-3.	Expand Logical Architectures -> logicalarchitecture_city_transportation -> NodeRoles and select all nodes which are realized performers<br/>
- 
+1.	Right click on **OperationalViewPkg**, select **Add New -> Operational View Products -> OV-2 Operational Resource Flow Description**<br/>
+![](/image/223701%20OV-2%20Create%20IBD.jpg)
+2.	Fill in a name for the diagram and click **OK**<br/>
+![](/image/223702%20OV-2%20Diagram%20name.jpg)
+3.	Expand **Logical Architectures -> logicalarchitecture_city_transportation -> NodeRoles** and select all nodes which are realized performers<br/>
+![](/image/223703%20OV-2%20Select%20noderoles.jpg)
 4.	Drag all nodes on the diagram and rearrange<br/>
- 
-5.	Click   on Diagram Tools then add Port on the edge of People<br/>
- 
-6.	Right click on port_0, select Features…<br/>
- 
-7.	Change name from port_0 to pGround because this port will connect with that of Ground_transportation node and select Behavior under Attributes then click OK<br/>
- 
-8.	Add a port to Ground_transportation<br/>
- 
-9.	Right click port_3 select Features… then change the name to pPeople and select Behavior then click OK<br/>
- 
-10.	Click   on Diagram Tools then connect pPeople on Ground_transportation with pGround on People<br/>
- 
-11.	Right-click pPeople on Ground_transportation then select Features…<br/>
- 
-12.	Click Contract column<br/>
- 
-13.	Click Add in Provided Interfaces<br/>
- 
-14.	 In drop list select People_Ground_transportation then click OK<br/>
- 
-Note: Provided Interfaces contain all events which are provided through the other port by the other performer.<br/>
-15.	Click Yes when a message is shown to ask for realizing the port<br/>
- 
-16.	Click Add in Required Interfaces<br/>
- 
-17.	In drop list select Ground_transportation_People then click OK<br/>
- 
-Note: Required Interfaces contain all events which are required through current port. Usually, there is no message shown for asking for realizing the port.<br/>
-18.	Click OK when complete<br/>
- 
-19.	Add Provided Interfaces and Required Interfaces in Contract on pGround port in People node then click OK<br/>
- 
-20.	Add two ports (pRailway and pAerial) in People node, one port (pPeople) in Railway_transportation node and one port (pPeople) in Aerial_transportation node<br/>
- 
+![](/image/223704%20OV-2%20Drag%20noderoles%20on%20diagram.jpg)
+5.	Click **Port** ![](/image/223705%20OV-2%20Port%20tool.jpg) tool on **Diagram Tools** then add **Port** on the edge of **People**<br/>
+![](/image/223706%20OV-2%20Port%20added%20on%20node.jpg)
+6.	Right click on **port_0**, select **Features…**<br/>
+![](/image/223707%20OV-2%20Port%20features.jpg)
+7.	Change name from **port_0** to **pGround** because this port will connect with that of **Ground_transportation** node and select **Behavior** under **Attributes** then click **OK**<br/>
+![](/image/223708%20OV-2%20Change%20port%20name.jpg)
+8.	Add a port to **Ground_transportation**<br/>
+![](/image/223709%20OV-2%20Add%20another%20port.jpg)
+9.	Right click **port_3** select **Features…** then change the name to **pPeople** and select **Behavior** then click **OK**<br/>
+![](/image/223710%20OV-2%20Change%20another%20port%20name.jpg)
+10.	Click **Needline** ![](/image/223711%20OV-2%20Needline.jpg) tool on **Diagram Tools** then connect **pPeople** on **Ground_transportation** with **pGround** on **People**<br/>
+![](/image/223712%20OV-2%20Connect%20needline.jpg)
+11.	Right-click **pPeople** on **Ground_transportation** then select **Features…**<br/>
+![](/image/223713%20OV-2%20Port%20features.jpg)
+12.	Click **Contract** column<br/>
+![](/image/223714%20OV-2%20Port%20contract.jpg)
+13.	Click **Add** in **Provided Interfaces**<br/>
+![](/image/223715%20OV-2%20Port%20add%20provided%20interfaces.jpg)
+14.	 In drop list select **People_Ground_transportation** then click **OK**<br/>
+![](/image/223716%20OV-2%20Port%20select%20provided%20interfaces.jpg)<br/>
+*Note: Provided Interfaces contain all events which are provided through the other port by the other performer.*<br/>
+15.	Click **Yes** when a message is shown to ask for realizing the port<br/>
+![](/image/223717%20OV-2%20Port%20info%20to%20realize.jpg)
+16.	Click **Add** in **Required Interfaces**<br/>
+![](/image/223718%20OV-2%20Port%20add%20required%20interface.jpg)
+17.	In drop list select **Ground_transportation_People** then click **OK**<br/>
+![](/image/223719%20OV-2%20Port%20select%20required%20interfaces.jpg)<br/>
+*Note: Required Interfaces contain all events which are required through current port. Usually, there is no message shown for asking for realizing the port.*<br/>
+18.	Click **OK** when complete<br/>
+![](/image/223720%20OV-2%20Port%20complete.jpg)
+19.	Add **Provided Interfaces** and **Required Interfaces** in **Contract** on **pGround** port in **People** node then click **OK**<br/>
+![](/image/223721%20OV-2%20Port%20add%20the%20other%20port.jpg)
+20.	Add two ports (**pRailway** and **pAerial**) in **People** node, one port (**pPeople**) in **Railway_transportation** node and one port (**pPeople**) in **Aerial_transportation** node<br/>
+![](/image/223722%20OV-2%20Diagram%20add%20two%20more%20ports.jpg)
 21.	Then add contracts to all other ports<br/>
-
-
-22.	(optional) Select all blocks then click   Structured View to change the view of blocks<br/>
- 
-Note: Click one block then press Ctrl + Alt + t so all blocks can be selected.<br/>
+![](/image/223723%20OV-2%20Port%20create%20the%20third%20port.jpg)
+![](/image/223724%20OV-2%20Port%20create%20the%20fourth%20port.jpg)
+![](/image/223725%20OV-2%20Port%20create%20new%20port%20on%20the%20third%20node.jpg)
+![](/image/223726%20OV-2%20Port%20create%20new%20port%20on%20the%20fourth%20node.jpg)
+22.	(optional) Select all blocks then click ![](/image/223727%20OV-2%20Structure%20View.jpg) **Structured View** to change the view of blocks<br/>
+![](/image/223728%20OV-2%20Diagram%20complete.jpg)
+*Note: Click one block then press Ctrl + Alt + t so all blocks can be selected.*<br/>
 ## 2.2.3.8	Create OV-6b: State Transition Description<br/>
 ###
 For more detailed information about OV-6b: State Transition Description, go to the website of Department of Defense.<br/>
