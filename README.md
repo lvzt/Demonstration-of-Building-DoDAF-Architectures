@@ -504,7 +504,8 @@ For more detailed information about SV-5a: Operational Activity to Systems Funct
 4.	Select **OperationalViewPkg in DoDAF20_Architecture** in **“To” Scope** then click **OK**<br/>
 ![](/image/226104%20SV-5a%20To%20scope.jpg)
 5.	Double-click **sv-5a operational activity to systems function traceability matrix** to open the matrix<br/>
-![](/image/226105%20SV-5a%20Matrix.jpg)
+![](/image/226105%20SV-5a%20Matrix.jpg)<br/>
+*Note: If the table is happenly opened before setting **“From” Scope** and **“To” Scope**, **Refresh** tool can be used to show the content of the table after those settings are completed.*<br/>
 6.	If any changes are made, **Refresh** on tool panel can be used to update the matrix. **Switch Rows and Columns** can be used to transpose the matrix.<br/>
 ![](/image/226106%20SV-5a%20Tool%20panel.jpg)
 7.	Right-click the correct cell and select **Add New -> Implements** to add relationship between operational activity and system function<br/>
@@ -522,7 +523,8 @@ For more detailed information about SV-5b: Operational Activity to Systems Trace
 4.	Select **OperationalViewPkg in DoDAF20_Architecture** in **“To” Scope** then click **OK**<br/>
 ![](/image/226204%20SV-5b%20To%20scope.jpg)
 5.	Double-click **sv-5b operational activity to systems traceability matrix** to open the matrix<br/>
-![](/image/226205%20SV-5b%20Matrix.jpg)
+![](/image/226205%20SV-5b%20Matrix.jpg)<br/>
+*Note: If the table is happenly opened before setting **“From” Scope** and **“To” Scope**, **Refresh** tool can be used to show the content of the table after those settings are completed.*<br/>
 6.	Press **Switch Rows and Columns** to transpose the matrix<br/>
 ![](/image/226206%20SV-5b%20Matrix%20transpose.jpg)
 7.	Right-click the correct cell and select **Add New -> Implements** to add relationship between operational activity and system function<br/>
