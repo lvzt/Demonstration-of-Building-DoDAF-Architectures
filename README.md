@@ -42,8 +42,9 @@
 ## Acknowledge<br/>
 ###
 This demonstration article by Mr. Zhentao Lu is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br/>
+![](/image/0001%20CC-by.png)
 <br/><br/>
-Any questions, problems or suggestions are welcome and can be sent by email to the author – Mr. Zhentao Lu.<br/>
+Any questions, problems or suggestions are welcome and can be sent by [email](mailto:lvzht@hotmail.com) to the author – Mr. Zhentao Lu.<br/>
 <br/><br/>
 ## 1	Introduction<br/>
 ###
