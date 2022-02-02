@@ -244,7 +244,8 @@ For more detailed information about OV-5b: Operational Activity Model, go to the
 ![](/image/223416%20OV-5b%20Operational%20Activity%20complete.jpg)<br/>
 *Note: If the swinlane frame is too small, click the frame and press and hold Alt then use left-button of mouse to expand it.*<br/>
 12.	 Right-click on empty place of diagram (please note do not select any items on diagram) and select **UPDM Toolkit -> Create Activities For ActionsCommand**<br/>
-![](/image/223417%20OV-5b%20Create%20Activities%20For%20ActionCommand.jpg)
+![](/image/223417%20OV-5b%20Create%20Activities%20For%20ActionCommand.jpg)<br/>
+*Note: After completion of this action, all names and labels of the operational activity action on the diagram are not allowed to be edited. And all labels will be changed as same as the name of operational activity. But operational activities in step 14 are available to be modified. After any modifiction on name or label of operational activity, it can be reflected on the diagram.*<br/>
 13.	Wait for few seconds then result is displayed in **Log** window<br/>
 ![](/image/223418%20OV-5b%20Create%20Activities%20For%20ActionCommand%20result.jpg)
 14.	Expand **OperationalActivities** to check all activities created from the diagram<br/>
