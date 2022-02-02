@@ -115,19 +115,19 @@ For more detailed information about CV-2: Capability Taxonomy, go to the [websit
 1.	Right click on **CapabilityViewPkg**, select **Add New -> Capability View Products -> CV-2 Capability Taxonomy**<br/>
 ![](/image/22201%20CV-2%20Create.jpg)
 2.	Fill in a name for the diagram and click OK<br/>
-DoDAF Demonstration github 20220129
-3.	Select **Capability** tool ![](/image/22203%20CV-2%20Capability%20tool.jpg)<br/>
-4.	Draw a Capability on the diagram<br/>
+![](/image/22202%20CV-2%20Diagram%20name.jpg)
+3.	Select **Capability** ![](/image/22203%20CV-2%20Capability%20tool.jpg) tool on the **Diagram Tools**<br/>
+4.	Draw a **Capability** on the diagram<br/>
 ![](/image/22204%20CV-2%20Capability%20Diagram.jpg)
 5.	Right click the **Capability** and select **Features…**<br/>
 ![](/image/22221%20CV-2%20Capability%20Features.jpg)
 7.	Fill in a name for this **Capability**<br/>
 ![](/image/22205%20CV-2%20Capability%20name.jpg)<br/>
 *Note: Space and “-“ are highly NOT recommended to be included in any names of elements on the diagram.*<br/>
-7.	Add three more Capability elements<br/>
+7.	Add three more **Capability** elements<br/>
 ![](/image/22206%20CV-2%20Diagram%20more%20capabilities.jpg)<br/>
 *Tip: When drawing diagrams, **Stamp Mode** ![](/image/22207%20CV-2%20Stamp%20Mode.jpg) tool can be pushed down then the item will not be released after clicking it from the panel so the selected item can be added more than once.*<br/>
-8.	Change the name of all those three Capability elements<br/>
+8.	Change the name of all those three **Capability** elements<br/>
 ![](/image/22208%20CV-2%20Diagram%20more%20capabilities%20with%20name.jpg)
 9.	Click **Composition** ![](/image/22209%20CV-2%20Composition%20tool.jpg) tool then add the relation between the main element and sub-elements<br/>
 ![](/image/22210%20Capability%20Diagram%20capability%20with%20association.jpg)
@@ -143,13 +143,13 @@ For more detailed information about CV-4: Capability Dependencies, go to the [we
 ![](/image/22214%20CV-4%20Create.jpg)
 2.	Fill in a name for the diagram and click **OK**<br/>
 ![](/image/22215%20CV-4%20Diagram%20name.jpg)
-3.	Expand **Capabilities** and press Ctrl then select **Punctuality** and **Rapidness**<br/>
+3.	Expand **Capabilities** and press **Ctrl** then select **Punctuality** and **Rapidness**<br/>
 ![](/image/22216%20CV-4%20Drag%20Capability.jpg)
 4.	Drag **Punctuality** and **Rapidness** on the diagram<br/>
 ![](/image/22217%20CV-4%20Diagram.jpg)
-5.	By default, the perspective is in **Getting Started**, so some items on drawing panel are not displayed, to show more drawing items click the perspective list and select **Basic**<br/>
+5.	By default, the perspective on the top left corn of menu bar is in **Getting Started**, so some items on drawing panel are not displayed, to show more drawing items click the perspective list and select **Basic**<br/>
 ![](/image/22218%20CV-4%20Change%20Perspective.jpg)
-6.	Click **Dependency** ![](/image/22219%20CV-4%20Dependency.jpg) tool on the Diagram Tools then connect **Punctuality** with **Rapidness**<br/>
+6.	Click **Dependency** ![](/image/22219%20CV-4%20Dependency.jpg) tool on the **Diagram Tools** then connect **Punctuality** with **Rapidness**<br/>
 ![](/image/22220%20CV-4%20Diagram%20with%20dependency.jpg)<br/>
 ## 2.2.3	Build Operational Viewpoint (OV)<br/>
 For more detailed information about Operational Viewpoint, go to the [website](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_operational/) of Department of Defense.<br/>
@@ -278,7 +278,7 @@ For more detailed information about OV-6c: Event-Trace Description, go to the [w
 *Note: The Interface is not included in DoDAF. However, it’s critical for passing the events created in previous step (OV-6c) between nodes. In addition, all interfaces have to be attached on ports which can be added in next step (OV-2 (IBD)). All interfaces are direction related so usually the format is Sender_Receiver.*<br/>
 1.	Click the perspective list and select **Advanced**<br/>
 ![](/image/223601%20Interface%20Change%20Perspective.jpg)<br/>
-*Note: the perspective panel is on the upper left.*<br/>
+*Note: the perspective panel is on the top left corn of menu bar.*<br/>
 2.	Right click on **OperationalViewPkg**, select **Add New -> Blocks -> Interface**<br/>
 ![](/image/223602%20Interface%20Create%20interface.jpg)
 3.	Open **ov-6c event trace description_transportation** and find the first event **reqGround_stop()** because the event is sent from **People** to **Ground_transportation** then change the interface name to **People_ Ground_transportation**<br/>
@@ -399,7 +399,7 @@ For more detailed information about OV-6b: State Transition Description, go to t
 ![](/image/223824%20OV-6b%20State%20diagram%20complete%20for%20second%20performer.jpg)
 22.	According to OV-5b and OV-6c complete OV-6b for **Ground_transportation** performer<br/>
 ![](/image/223826%20OV-6b%20State%20diagram%20complete%20for%20third%20performer.jpg)<br/>
-*Note: The **Condition connector** ![](/image/223825%20OV-6b%20Condition%20connector.jpg) tool is not shown on tool panel under Rhapsody 9.0. But this item can be copied from other project and paste to current and there is not problem during compiling. This problem is fixed in Rhapsody 9.0.1.*<br/>
+*Note: The **Condition connector** ![](/image/223825%20OV-6b%20Condition%20connector.jpg) tool is not shown on tool panel under Rhapsody 9.0. But this item can be copied from other project and paste to current diagram and there is not problem during compiling. This problem is fixed in Rhapsody 9.0.1.*<br/>
 23.	According to OV-5b and OV-6c complete OV-6b for **Railway_transportation** performer
 ![](/image/223827%20OV-6b%20State%20diagram%20complete%20for%20fourth%20performer.jpg)
 24.	(Optional) To change the default transition line shape for OV-6b, right-click project root **TransportationSoS** then select **Features…**<br/>
