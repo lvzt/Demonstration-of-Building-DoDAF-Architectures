@@ -175,7 +175,7 @@ For more detailed information about OV-1: High-Level Operational Concept Graphic
 ![](/image/223109%20OV-1%20Layout%20Image.jpg)
 8.	Select Image Only and click ![](/image/223110%20OV-1%20Layout%20Image%20browse.jpg) in **Image Path:** then choose a picture and click **Open**<br/>
 ![](/image/223111%20OV-1%20Image%20open.jpg)
-223112 OV-1 Image load ![](/image/223112%20OV-1%20Image%20load.jpg)<br/>
+![](/image/223112%20OV-1%20Image%20load.jpg)<br/>
 9.	Click **OK**<br/>
 ![](/image/223113%20OV-1%20Diagram.jpg)<br/>
 ## 2.2.3.2	Create OV-2: Operational Resource Flow Description<br/>
