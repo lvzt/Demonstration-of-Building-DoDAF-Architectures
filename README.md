@@ -44,7 +44,8 @@
 <br/><br/>
 I would like to express my sincere appreciation and thanks to my best friend Dr. Rui Liu, assistant professor at the Rochester Institute of Technology, for sharing valuable idea. I would also like to thank others for their support, effort, and kindness.<br/>
 <br/><br/>
-This demonstration article by Mr. Zhentao Lu is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br/><br/>
+Demonstration of Building DoDAF Model IBM Rhapsody by [Zhentao Lu](https://github.com/lvzt) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1).<br/>
+<br/><br/>
 ![](/image/CC_BY-NC-ND.png)
 <br/><br/>
 Any questions, problems or suggestions are welcome and can be sent by [email](mailto:lvzht@hotmail.com) to the author – Mr. Zhentao Lu.<br/>
