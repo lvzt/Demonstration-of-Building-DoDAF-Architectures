@@ -35,7 +35,7 @@
 ### [2.2.6 Build interdependent viewpoint](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#226build-interdependent-viewpoint)<br/>
 ### [2.2.6.1 Create SV 5a: Operational Activity to Systems Function Traceability Matrix](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2261create-sv-5a-operational-activity-to-systems-function-traceability-matrix)<br/>
 ### [2.2.6.2 Create SV 5b: Operational Activity to Systems Traceability Matrix](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2262create-sv-5b-operational-activity-to-systems-traceability-matrix)<br/>
-### [3 Integrated scenario demonstration with UE4 (Additional)](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#3integrated-scenario-demonstration-with-ue4-additional)<br/>
+### [Appendix: Integrated scenario demonstration with Unreal Engine](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#Appendix:-Integrated-scenario-demonstration-with-Unreal-Engine)<br/>
 <br/><br/>
 <br/><br/>
 
@@ -538,9 +538,9 @@ For more detailed information about SV-5b: Operational Activity to Systems Trace
 ![](/image/226206%20SV-5b%20Matrix%20transpose.jpg)
 7.	Right-click the correct cell and select **Add New -> Implements** to add relationship between operational activity and system function<br/>
 ![](/image/226207%20SV-5b%20Implements.jpg)
-## 3	Integrated scenario demonstration with UE4 (Additional)<br/>
+## Appendix: Integrated scenario demonstration with Unreal Engine<br/>
 ###
-In this section an integrated scenario is demonstrated. The model built in IBM Rational Rhapsody is modified and UDP module is added. Commands are sent from the model in Rhapsody then characters in Unreal Engine 4 (UE4) respond after receiving those commands. When the characters finish their actions in UE4, a message will be sent back to Rhapsody which causes state transition or further operation.<br/>
+In this section an integrated scenario is demonstrated. The model built in IBM Rational Rhapsody is modified and UDP module is added. Commands are sent from the model in Rhapsody then characters in Unreal Engine 4 (UE4) or Unreal Engine 5 (UE4) respond after receiving those commands. When the characters finish their actions in UE4, a message will be sent back to Rhapsody which causes state transition or further operation. More detailed information can be found from the [address](https://github.com/lvzt/Animation-combining-Rhapsody-and-Unreal-Engine).<br/>
 <br/><br/>
 Video is posted on YouTube website ().<br/>
 <br/><br/>
