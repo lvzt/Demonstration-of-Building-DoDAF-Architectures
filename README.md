@@ -35,7 +35,7 @@
 ### [2.2.6 Build interdependent viewpoint](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#226build-interdependent-viewpoint)<br/>
 ### [2.2.6.1 Create SV 5a: Operational Activity to Systems Function Traceability Matrix](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2261create-sv-5a-operational-activity-to-systems-function-traceability-matrix)<br/>
 ### [2.2.6.2 Create SV 5b: Operational Activity to Systems Traceability Matrix](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#2262create-sv-5b-operational-activity-to-systems-traceability-matrix)<br/>
-### [Appendix: Integrated scenario demonstration with Unreal Engine](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#Appendix:-Integrated-scenario-demonstration-with-Unreal-Engine)<br/>
+### [Appendix: Integrated scenario demonstration with Unreal Engine](https://github.com/lvzt/Demonstration-of-Building-DoDAF-Architectures#Appendix-Integrated-scenario-demonstration-with-Unreal-Engine)<br/>
 <br/><br/>
 <br/><br/>
 
