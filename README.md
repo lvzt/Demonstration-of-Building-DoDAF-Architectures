@@ -543,6 +543,6 @@ For more detailed information about SV-5b: Operational Activity to Systems Trace
 ###
 In this section an integrated scenario is demonstrated. The model built in IBM Rational Rhapsody is modified and UDP module is added. Commands are sent from the model in Rhapsody then characters in Unreal Engine 4 (UE4) or Unreal Engine 5 (UE5) respond after receiving those commands. When the characters finish their actions in UE4 or UE5, a message will be sent back to Rhapsody which causes state transition or further operation. More detailed information can be found from the [address](https://github.com/lvzt/Animation-combining-Rhapsody-and-Unreal-Engine).<br/>
 <br/><br/>
-Video is posted on [YouTube]().<br/>
+Video is posted on [YouTube](https://youtu.be/wCWwo6dum1E).<br/>
 <br/><br/>
-大陆地区用户可以前往[bilibili网站]()进行浏览。<br/>
+大陆地区用户可以前往[bilibili网站](https://www.bilibili.com/video/BV1cH4y1S7YH/)进行浏览。<br/>
